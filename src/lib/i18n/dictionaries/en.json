@@ -7,7 +7,6 @@
     "home": "Home",
     "services": "Services",
     "products": "Products",
-    "projects": "Projects",
     "about": "About",
     "blog": "Blog",
     "contact": "Contact",
@@ -27,8 +26,8 @@
     "writeUs": "Write to us",
     "since": "Since",
     "yearsExperience": "years of experience",
-    "happyClients": "happy clients",
-    "completedProjects": "completed projects"
+    "acModels": "AC models",
+    "warranty": "Warranty"
   },
   "home": {
     "heroEyebrow": "Authorised HVAC partner · Gostivar",
@@ -43,12 +42,22 @@
     "productsEyebrow": "Products",
     "productsTitle": "Premium equipment from world leaders",
     "productsSubtitle": "Only certified, energy-efficient and whisper-quiet systems with full warranty.",
-    "projectsEyebrow": "Projects",
-    "projectsTitle": "Work we are proud of",
-    "projectsSubtitle": "Residential villas, office spaces and commercial facilities.",
     "ctaTitle": "Ready for the perfect climate?",
     "ctaSubtitle": "Our team visits, measures, and delivers a tailored quote within 48 hours.",
-    "ctaButton": "Get started"
+    "ctaButton": "Get started",
+    "midea": {
+      "eyebrow": "Flagship brand",
+      "title": "Midea — our flagship air-conditioning line",
+      "subtitle": "As an authorised Midea partner, Midea is the core of our range — full-inverter comfort from a single room to whole-home multi-zone systems, at the best price-to-performance in Gostivar and Tetovo.",
+      "partner": "Authorised Midea partner",
+      "cta": "See all Midea",
+      "features": [
+        "Full-inverter A++/A+++ efficiency",
+        "Wi-Fi & smart app control",
+        "Cold-climate heating down to -15°C",
+        "Best price-to-performance value"
+      ]
+    }
   },
   "services": {
     "pageTitle": "Services",
@@ -100,17 +109,6 @@
     "card": {
       "from": "from",
       "viewDetails": "View details"
-    }
-  },
-  "projects": {
-    "pageTitle": "Projects",
-    "pageSubtitle": "Selected work across North Macedonia and the region.",
-    "all": "All",
-    "categories": {
-      "residential": "Residential",
-      "commercial": "Commercial",
-      "industrial": "Industrial",
-      "hospitality": "Hospitality"
     }
   },
   "about": {
@@ -167,10 +165,6 @@
     "newsletterSubtitle": "Climate tips and seasonal offers.",
     "subscribe": "Subscribe"
   },
-  "rating": {
-    "label": "Rated 4.9 on Google",
-    "reviews": "200+ reviews"
-  },
   "whyUs": {
     "eyebrow": "Why Akva System ZZ",
     "title": "Built for comfort that lasts.",
@@ -212,11 +206,6 @@
         "desc": "Trained technicians, hidden runs, leave-no-trace finish."
       }
     }
-  },
-  "testimonialsBlock": {
-    "eyebrow": "Reviews",
-    "title": "Clients who keep coming back.",
-    "subtitle": "Real feedback from homes and businesses across North Macedonia."
   },
   "faq": {
     "eyebrow": "FAQ",

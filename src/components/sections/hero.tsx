@@ -1,19 +1,19 @@
-import { Phone, CheckCircle2 } from "lucide-react";
+import { Phone, CheckCircle2, BadgeCheck } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Eyebrow } from "@/components/ui/eyebrow";
-import { RatingBadge } from "@/components/ui/rating-badge";
 import { HeroCalculator } from "./hero-calculator";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import type { Locale } from "@/lib/i18n/config";
 
+// Midea is our flagship brand — lead the trust marquee with it.
 const brandLogos: { name: string; src: string }[] = [
+  { name: "Midea", src: "/brands/midea.svg" },
   { name: "Daikin", src: "/brands/daikin.svg" },
   { name: "Mitsubishi Electric", src: "/brands/mitsubishi.svg" },
   { name: "Toshiba", src: "/brands/toshiba.svg" },
   { name: "Panasonic", src: "/brands/panasonic.svg" },
   { name: "LG", src: "/brands/lg.svg" },
   { name: "Samsung", src: "/brands/samsung.svg" },
-  { name: "Midea", src: "/brands/midea.svg" },
   { name: "Haier", src: "/brands/haier.svg" },
   { name: "Hisense", src: "/brands/hisense.svg" },
 ];
@@ -53,7 +53,10 @@ export function Hero({ locale, dict }: { locale: Locale; dict: Dictionary }) {
             </div>
 
             <div className="mt-6 flex flex-wrap items-center gap-4">
-              <RatingBadge label={dict.rating.label} reviews={dict.rating.reviews} />
+              <span className="inline-flex items-center gap-2 rounded-full border border-brand/15 bg-brand-tint px-3.5 py-1.5 text-sm font-semibold text-brand-2">
+                <BadgeCheck className="size-4 text-brand" />
+                {dict.home.midea.partner}
+              </span>
               <ul className="flex flex-wrap gap-x-5 gap-y-2 text-sm text-fg-muted">
                 {[
                   dict.process.steps.visit.title,

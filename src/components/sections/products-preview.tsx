@@ -7,7 +7,11 @@ import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import type { Locale } from "@/lib/i18n/config";
 
 export function ProductsPreview({ locale, dict }: { locale: Locale; dict: Dictionary }) {
-  const featured = products.filter((p) => p.highlight).slice(0, 4);
+  // Lead with our flagship Midea models, then fill with other highlights.
+  const featured = [
+    ...products.filter((p) => p.brand === "Midea" && p.highlight),
+    ...products.filter((p) => p.brand !== "Midea" && p.highlight),
+  ].slice(0, 4);
   return (
     <div>
       <div className="flex flex-col md:flex-row md:items-end md:justify-between gap-6 mb-12 md:mb-16">

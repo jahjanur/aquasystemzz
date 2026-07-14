@@ -52,12 +52,6 @@ export function localBusinessSchema() {
         closes: business.openingHours.closes,
       },
     ],
-    aggregateRating: {
-      "@type": "AggregateRating",
-      ratingValue: business.rating.value,
-      reviewCount: business.rating.count,
-      bestRating: "5",
-    },
     knowsAbout: [
       "Air conditioning",
       "Inverter air conditioners",

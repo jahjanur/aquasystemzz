@@ -4,8 +4,8 @@ import type { Dictionary } from "@/lib/i18n/get-dictionary";
 export function Stats({ dict }: { dict: Dictionary }) {
   const items = [
     { value: 12, suffix: "+", label: dict.common.yearsExperience, accent: false },
-    { value: 1200, suffix: "+", label: dict.common.happyClients, accent: true },
-    { value: 850, suffix: "+", label: dict.common.completedProjects, accent: false },
+    { value: 100, suffix: "+", label: dict.common.acModels, accent: true },
+    { value: 5, suffix: "-yr", label: dict.common.warranty, accent: false, raw: true },
     { value: 24, suffix: "/7", label: "Service", accent: false, raw: true },
   ];
   return (

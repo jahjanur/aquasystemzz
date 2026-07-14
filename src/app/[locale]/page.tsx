@@ -3,11 +3,10 @@ import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { Hero } from "@/components/sections/hero";
 import { WhyUs } from "@/components/sections/why-us";
 import { ServicesGrid } from "@/components/sections/services-grid";
+import { MideaSpotlight } from "@/components/sections/midea-spotlight";
 import { ProductsPreview } from "@/components/sections/products-preview";
-import { ProjectsPreview } from "@/components/sections/projects-preview";
 import { Stats } from "@/components/sections/stats";
 import { Process } from "@/components/sections/process";
-import { Testimonials } from "@/components/sections/testimonials";
 import { FAQ } from "@/components/sections/faq";
 import { CTA } from "@/components/sections/cta";
 import { Section } from "@/components/ui/section";
@@ -42,18 +41,14 @@ export default async function HomePage({
       </Section>
 
       <Section>
+        <MideaSpotlight locale={locale as Locale} dict={dict} />
+      </Section>
+
+      <Section bg="soft">
         <ProductsPreview locale={locale as Locale} dict={dict} />
       </Section>
 
-      <Section bg="soft">
-        <ProjectsPreview locale={locale as Locale} dict={dict} />
-      </Section>
-
       <Section>
-        <Testimonials dict={dict} locale={locale as Locale} />
-      </Section>
-
-      <Section bg="soft">
         <FAQ dict={dict} />
       </Section>
 

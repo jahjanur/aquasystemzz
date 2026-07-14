@@ -29,6 +29,5 @@ export const business = {
     closes: "18:00",
   },
   priceRange: "€€",
-  rating: { value: "4.9", count: "200" },
   sameAs: [] as string[], // add Facebook / Instagram / Google Business URLs when available
 } as const;

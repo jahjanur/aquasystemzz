@@ -35,7 +35,6 @@ export function Header({
     { href: `/${locale}/`, label: dict.nav.home },
     { href: `/${locale}/services/`, label: dict.nav.services },
     { href: `/${locale}/products/`, label: dict.nav.products },
-    { href: `/${locale}/projects/`, label: dict.nav.projects },
     { href: `/${locale}/about/`, label: dict.nav.about },
     { href: `/${locale}/blog/`, label: dict.nav.blog },
     { href: `/${locale}/contact/`, label: dict.nav.contact },

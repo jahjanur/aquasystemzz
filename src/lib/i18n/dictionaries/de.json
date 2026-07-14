@@ -7,7 +7,6 @@
     "home": "Start",
     "services": "Leistungen",
     "products": "Produkte",
-    "projects": "Projekte",
     "about": "Über uns",
     "blog": "Blog",
     "contact": "Kontakt",
@@ -27,8 +26,8 @@
     "writeUs": "Schreiben Sie uns",
     "since": "Seit",
     "yearsExperience": "Jahre Erfahrung",
-    "happyClients": "zufriedene Kunden",
-    "completedProjects": "realisierte Projekte"
+    "acModels": "Klimamodelle",
+    "warranty": "Garantie"
   },
   "home": {
     "heroEyebrow": "Autorisierter HVAC-Partner · Gostivar",
@@ -43,12 +42,22 @@
     "productsEyebrow": "Produkte",
     "productsTitle": "Premium-Geräte von Weltmarktführern",
     "productsSubtitle": "Nur zertifizierte, energieeffiziente und flüsterleise Systeme mit voller Garantie.",
-    "projectsEyebrow": "Projekte",
-    "projectsTitle": "Arbeiten, auf die wir stolz sind",
-    "projectsSubtitle": "Wohnvillen, Bürogebäude und Gewerbeobjekte.",
     "ctaTitle": "Bereit für perfektes Klima?",
     "ctaSubtitle": "Unser Team kommt vorbei, misst aus und liefert ein Angebot innerhalb von 48 Stunden.",
-    "ctaButton": "Jetzt starten"
+    "ctaButton": "Jetzt starten",
+    "midea": {
+      "eyebrow": "Top-Marke",
+      "title": "Midea — unsere führende Klimaanlagen-Linie",
+      "subtitle": "Als autorisierter Midea-Partner ist Midea das Herzstück unseres Sortiments — Vollinverter-Komfort vom einzelnen Raum bis zu Multi-Split-Systemen fürs ganze Haus, zum besten Preis-Leistungs-Verhältnis in Gostivar und Tetovo.",
+      "partner": "Autorisierter Midea-Partner",
+      "cta": "Alle Midea ansehen",
+      "features": [
+        "Vollinverter A++/A+++ Effizienz",
+        "WLAN- & Smart-App-Steuerung",
+        "Heizen bis -15°C",
+        "Bestes Preis-Leistungs-Verhältnis"
+      ]
+    }
   },
   "services": {
     "pageTitle": "Leistungen",
@@ -100,17 +109,6 @@
     "card": {
       "from": "ab",
       "viewDetails": "Details"
-    }
-  },
-  "projects": {
-    "pageTitle": "Projekte",
-    "pageSubtitle": "Ausgewählte Arbeiten in Nordmazedonien und der Region.",
-    "all": "Alle",
-    "categories": {
-      "residential": "Wohnen",
-      "commercial": "Gewerbe",
-      "industrial": "Industrie",
-      "hospitality": "Hotellerie"
     }
   },
   "about": {
@@ -167,10 +165,6 @@
     "newsletterSubtitle": "Klima-Tipps und saisonale Angebote.",
     "subscribe": "Abonnieren"
   },
-  "rating": {
-    "label": "4,9 auf Google",
-    "reviews": "200+ Bewertungen"
-  },
   "whyUs": {
     "eyebrow": "Warum Akva System ZZ",
     "title": "Komfort, der bleibt.",
@@ -212,11 +206,6 @@
         "desc": "Geschulte Techniker, verdeckte Leitungen, makelloses Finish."
       }
     }
-  },
-  "testimonialsBlock": {
-    "eyebrow": "Bewertungen",
-    "title": "Kunden, die immer wiederkommen.",
-    "subtitle": "Echtes Feedback aus Wohn- und Geschäftsräumen in Nordmazedonien."
   },
   "faq": {
     "eyebrow": "FAQ",

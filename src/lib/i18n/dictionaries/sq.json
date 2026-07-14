@@ -7,7 +7,6 @@
     "home": "Ballina",
     "services": "Shërbime",
     "products": "Produkte",
-    "projects": "Projekte",
     "about": "Rreth nesh",
     "blog": "Blog",
     "contact": "Kontakt",
@@ -27,8 +26,8 @@
     "writeUs": "Na shkruaj",
     "since": "Që nga",
     "yearsExperience": "vite përvojë",
-    "happyClients": "klientë të kënaqur",
-    "completedProjects": "projekte të realizuara"
+    "acModels": "modele kondicionerësh",
+    "warranty": "Garanci"
   },
   "home": {
     "heroEyebrow": "Partner i autorizuar HVAC · Gostivar",
@@ -43,12 +42,22 @@
     "productsEyebrow": "Produkte",
     "productsTitle": "Pajisje premium nga liderët botërorë",
     "productsSubtitle": "Vetëm pajisje të certifikuara me garanci, eficiente dhe të heshtura.",
-    "projectsEyebrow": "Projekte",
-    "projectsTitle": "Realizime me të cilat krenohemi",
-    "projectsSubtitle": "Vila rezidenciale, hapësira zyre dhe objekte komerciale.",
     "ctaTitle": "Gati për komfort të përsosur?",
     "ctaSubtitle": "Ekipi ynë del në terren, mat dhe dorëzon ofertën brenda 48 orëve.",
-    "ctaButton": "Fillo tani"
+    "ctaButton": "Fillo tani",
+    "midea": {
+      "eyebrow": "Marka kryesore",
+      "title": "Midea — linja jonë kryesore e kondicionerëve",
+      "subtitle": "Si partner i autorizuar i Midea-s, kjo markë është zemra e ofertës sonë — rehati me inverter të plotë nga një dhomë e vetme te sistemet multi-zonale për gjithë shtëpinë, me raportin më të mirë çmim–cilësi në Gostivar dhe Tetovë.",
+      "partner": "Partner i autorizuar i Midea-s",
+      "cta": "Shih të gjitha Midea",
+      "features": [
+        "Inverter i plotë, klasa A++/A+++",
+        "Kontroll me Wi-Fi dhe aplikacion",
+        "Ngrohje edhe në -15°C",
+        "Raporti më i mirë çmim–performancë"
+      ]
+    }
   },
   "services": {
     "pageTitle": "Shërbime",
@@ -100,17 +109,6 @@
     "card": {
       "from": "nga",
       "viewDetails": "Detajet"
-    }
-  },
-  "projects": {
-    "pageTitle": "Projekte",
-    "pageSubtitle": "Realizime të zgjedhura në Maqedoni dhe rajon.",
-    "all": "Të gjitha",
-    "categories": {
-      "residential": "Rezidenciale",
-      "commercial": "Komerciale",
-      "industrial": "Industriale",
-      "hospitality": "Hoteleri"
     }
   },
   "about": {
@@ -167,10 +165,6 @@
     "newsletterSubtitle": "Këshilla për klimatizim dhe oferta sezonale.",
     "subscribe": "Abonohu"
   },
-  "rating": {
-    "label": "Vlerësim 4.9 në Google",
-    "reviews": "200+ vlerësime"
-  },
   "whyUs": {
     "eyebrow": "Pse Akva System ZZ",
     "title": "Të ndërtuar për komfort që zgjat.",
@@ -212,11 +206,6 @@
         "desc": "Teknikë të trajnuar, gypa të fshehur, asnjë gjurmë."
       }
     }
-  },
-  "testimonialsBlock": {
-    "eyebrow": "Vlerësime",
-    "title": "Klientë që vazhdojnë të kthehen.",
-    "subtitle": "Reagime reale nga shtëpi dhe biznese në Maqedoninë e Veriut."
   },
   "faq": {
     "eyebrow": "Pyetje",

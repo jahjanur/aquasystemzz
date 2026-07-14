@@ -1,4 +1,4 @@
-import { Phone, Star, ShieldCheck, Clock, MapPin, Sparkles } from "lucide-react";
+import { Phone, BadgeCheck, ShieldCheck, Clock, MapPin, Sparkles } from "lucide-react";
 import { ConsultationButton } from "@/components/site/consultation-button";
 import type { Dictionary } from "@/lib/i18n/get-dictionary";
 import type { Locale } from "@/lib/i18n/config";
@@ -98,31 +98,21 @@ export function CTA({ dict }: { locale: Locale; dict: Dictionary }) {
               </div>
             </div>
 
-            {/* rating */}
+            {/* Midea partner */}
             <div className="rounded-2xl bg-white/5 border border-white/10 backdrop-blur-sm p-4">
-              <div className="flex items-center gap-0.5">
-                {Array.from({ length: 5 }).map((_, i) => (
-                  <Star
-                    key={i}
-                    className="size-3.5 fill-amber-300 stroke-amber-300"
-                  />
-                ))}
-              </div>
-              <div className="mt-2 text-2xl font-display font-semibold tabular-nums">
-                4.9
-              </div>
-              <div className="text-[0.7rem] uppercase tracking-widest text-white/50 font-semibold">
-                Google · 200+
+              <BadgeCheck className="size-6 text-accent" />
+              <div className="mt-2 text-sm font-display font-semibold leading-tight">
+                {dict.home.midea.partner}
               </div>
             </div>
 
-            {/* projects */}
+            {/* warranty */}
             <div className="rounded-2xl bg-white/5 border border-white/10 backdrop-blur-sm p-4">
               <div className="text-2xl font-display font-semibold tabular-nums text-accent">
-                850+
+                5<span className="text-lg font-medium text-white/60"> yr</span>
               </div>
               <div className="text-[0.7rem] uppercase tracking-widest text-white/50 font-semibold mt-1">
-                {dict.common.completedProjects}
+                {dict.common.warranty}
               </div>
             </div>
           </div>

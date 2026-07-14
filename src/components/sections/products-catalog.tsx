@@ -41,6 +41,14 @@ export function ProductsCatalog({
   const [filters, setFilters] = React.useState<Filters>(initial);
   const [open, setOpen] = React.useState(false);
 
+  // Deep link support: /products/?brand=Midea preselects the brand filter.
+  React.useEffect(() => {
+    const brand = new URLSearchParams(window.location.search).get("brand");
+    if (brand && brands.includes(brand)) {
+      setFilters((f) => ({ ...f, brand }));
+    }
+  }, []);
+
   const filtered: Product[] = React.useMemo(() => {
     return products.filter((p) => {
       if (filters.category !== "all" && p.category !== filters.category) return false;
