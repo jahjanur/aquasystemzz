@@ -9,6 +9,7 @@
     "products": "Produkte",
     "projects": "Projekte",
     "about": "Rreth nesh",
+    "blog": "Blog",
     "contact": "Kontakt",
     "getQuote": "Kërko ofertë"
   },
@@ -120,9 +121,18 @@
     "missionText": "Ta bëjmë komfortin premium të arritshëm — me çmim të drejtë, cilësi pa kompromis dhe shërbim që kujdeset edhe pas dorëzimit.",
     "valuesTitle": "Çfarë na udhëheq",
     "values": {
-      "quality": { "title": "Cilësi pa kompromis", "desc": "Vetëm pajisje të certifikuara nga markat lider." },
-      "precision": { "title": "Zbatim precis", "desc": "Linja të pastra, gypa të fshehur, balancim i përsosur i ajrit." },
-      "support": { "title": "Mbështetje pas dorëzimit", "desc": "Kontrata servisi, intervenime urgjente, pjesë origjinale." }
+      "quality": {
+        "title": "Cilësi pa kompromis",
+        "desc": "Vetëm pajisje të certifikuara nga markat lider."
+      },
+      "precision": {
+        "title": "Zbatim precis",
+        "desc": "Linja të pastra, gypa të fshehur, balancim i përsosur i ajrit."
+      },
+      "support": {
+        "title": "Mbështetje pas dorëzimit",
+        "desc": "Kontrata servisi, intervenime urgjente, pjesë origjinale."
+      }
     }
   },
   "contact": {
@@ -166,10 +176,22 @@
     "title": "Të ndërtuar për komfort që zgjat.",
     "subtitle": "Instalues i autorizuar i markave lider, inxhinierë të çertifikuar dhe një ekip servisi që ngre telefonin.",
     "items": {
-      "warranty": { "title": "Garanci 5+ vjet", "desc": "Pjesë origjinale, të regjistruara te prodhuesi." },
-      "certified": { "title": "Partner i autorizuar", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG e të tjera." },
-      "fast": { "title": "Ofertë për 48 orë", "desc": "Vizitë në vend, matje dhe ofertë e personalizuar." },
-      "support": { "title": "Servis 24/7", "desc": "Kontrata vjetore dhe intervenime urgjente." }
+      "warranty": {
+        "title": "Garanci 5+ vjet",
+        "desc": "Pjesë origjinale, të regjistruara te prodhuesi."
+      },
+      "certified": {
+        "title": "Partner i autorizuar",
+        "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG e të tjera."
+      },
+      "fast": {
+        "title": "Ofertë për 48 orë",
+        "desc": "Vizitë në vend, matje dhe ofertë e personalizuar."
+      },
+      "support": {
+        "title": "Servis 24/7",
+        "desc": "Kontrata vjetore dhe intervenime urgjente."
+      }
     }
   },
   "process": {
@@ -177,9 +199,18 @@
     "title": "Tri hapa drejt klimatizimit të përsosur.",
     "subtitle": "Thjeshtë, transparent dhe i ndërtuar rreth hapësirës suaj.",
     "steps": {
-      "visit": { "title": "Vizitë falas", "desc": "Një inxhinier vjen, mat dhe dëgjon nevojat tuaja." },
-      "design": { "title": "Dizajn i personalizuar", "desc": "Dërgojmë një ofertë të qartë me sistemin dhe çmimin e duhur." },
-      "install": { "title": "Instalim i pastër", "desc": "Teknikë të trajnuar, gypa të fshehur, asnjë gjurmë." }
+      "visit": {
+        "title": "Vizitë falas",
+        "desc": "Një inxhinier vjen, mat dhe dëgjon nevojat tuaja."
+      },
+      "design": {
+        "title": "Dizajn i personalizuar",
+        "desc": "Dërgojmë një ofertë të qartë me sistemin dhe çmimin e duhur."
+      },
+      "install": {
+        "title": "Instalim i pastër",
+        "desc": "Teknikë të trajnuar, gypa të fshehur, asnjë gjurmë."
+      }
     }
   },
   "testimonialsBlock": {
@@ -192,11 +223,26 @@
     "title": "Çfarë na pyesin më shpesh.",
     "subtitle": "Nuk e gjeni përgjigjen? Telefononi — flasim me kënaqësi për HVAC.",
     "items": [
-      { "q": "Sa zgjat instalimi?", "a": "Sistemet split rezidenciale instalohen kryesisht në një ditë. Multi-split dhe VRF zgjasin 2–5 ditë sipas projektit." },
-      { "q": "A ofroni financim?", "a": "Po — bashkëpunojmë me banka lokale për këste deri në 36 muaj për instalime mbi 1 500 €." },
-      { "q": "A është vërtet falas vizita?", "a": "Po. Vijmë, masim, këshillojmë dhe dërgojmë një ofertë me shkrim pa kosto dhe pa detyrim." },
-      { "q": "Me cilat marka punoni?", "a": "Jemi instalues të autorizuar të Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung dhe Gree." },
-      { "q": "A servisoni sistemet që nuk i keni instaluar ju?", "a": "Sigurisht. Ekipi ynë punon me të gjitha markat dhe ofron kontrata vjetore mirëmbajtjeje." }
+      {
+        "q": "Sa zgjat instalimi?",
+        "a": "Sistemet split rezidenciale instalohen kryesisht në një ditë. Multi-split dhe VRF zgjasin 2–5 ditë sipas projektit."
+      },
+      {
+        "q": "A ofroni financim?",
+        "a": "Po — bashkëpunojmë me banka lokale për këste deri në 36 muaj për instalime mbi 1 500 €."
+      },
+      {
+        "q": "A është vërtet falas vizita?",
+        "a": "Po. Vijmë, masim, këshillojmë dhe dërgojmë një ofertë me shkrim pa kosto dhe pa detyrim."
+      },
+      {
+        "q": "Me cilat marka punoni?",
+        "a": "Jemi instalues të autorizuar të Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung dhe Gree."
+      },
+      {
+        "q": "A servisoni sistemet që nuk i keni instaluar ju?",
+        "a": "Sigurisht. Ekipi ynë punon me të gjitha markat dhe ofron kontrata vjetore mirëmbajtjeje."
+      }
     ]
   },
   "sticky": {
@@ -249,5 +295,22 @@
     "title": "Na tregoni për hapësirën tuaj.",
     "subtitle": "Lini detajet — përgjigjemi brenda 24 orëve me një plan të personalizuar.",
     "cta": "Kërko ofertë falas"
+  },
+  "blog": {
+    "eyebrow": "Këshilla dhe udhëzues",
+    "pageTitle": "Blogu dhe këshilla",
+    "pageSubtitle": "Udhëzues, çmime dhe këshilla për kondicionerë, ngrohje dhe ventilim në Gostivar, Tetovë dhe Pollog.",
+    "readMore": "Lexo më shumë",
+    "minRead": "min lexim",
+    "backToBlog": "Kthehu te blogu",
+    "relatedTitle": "Artikuj të ngjashëm",
+    "updatedOn": "Përditësuar",
+    "allPosts": "Të gjithë artikujt",
+    "categories": {
+      "local": "Lokale",
+      "prices": "Çmime",
+      "guide": "Udhëzues",
+      "heating": "Ngrohje"
+    }
   }
 }

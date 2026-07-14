@@ -9,6 +9,7 @@
     "products": "Products",
     "projects": "Projects",
     "about": "About",
+    "blog": "Blog",
     "contact": "Contact",
     "getQuote": "Get a quote"
   },
@@ -120,9 +121,18 @@
     "missionText": "To make premium comfort accessible — with fair pricing, uncompromising quality, and service that takes care of you long after handover.",
     "valuesTitle": "What drives us",
     "values": {
-      "quality": { "title": "No-compromise quality", "desc": "Only certified equipment from leading brands." },
-      "precision": { "title": "Precise execution", "desc": "Clean lines, hidden runs, perfect air balance." },
-      "support": { "title": "Support after handover", "desc": "Service contracts, emergency response, genuine parts." }
+      "quality": {
+        "title": "No-compromise quality",
+        "desc": "Only certified equipment from leading brands."
+      },
+      "precision": {
+        "title": "Precise execution",
+        "desc": "Clean lines, hidden runs, perfect air balance."
+      },
+      "support": {
+        "title": "Support after handover",
+        "desc": "Service contracts, emergency response, genuine parts."
+      }
     }
   },
   "contact": {
@@ -166,10 +176,22 @@
     "title": "Built for comfort that lasts.",
     "subtitle": "Authorised installer of leading brands, certified engineers, and a service team that picks up the phone.",
     "items": {
-      "warranty": { "title": "5+ year warranty", "desc": "Genuine parts, registered with the manufacturer." },
-      "certified": { "title": "Authorised partner", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG and more." },
-      "fast": { "title": "Quote in 48 hours", "desc": "On-site visit, measurements, and a tailored offer." },
-      "support": { "title": "24/7 service", "desc": "Annual contracts and emergency response." }
+      "warranty": {
+        "title": "5+ year warranty",
+        "desc": "Genuine parts, registered with the manufacturer."
+      },
+      "certified": {
+        "title": "Authorised partner",
+        "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG and more."
+      },
+      "fast": {
+        "title": "Quote in 48 hours",
+        "desc": "On-site visit, measurements, and a tailored offer."
+      },
+      "support": {
+        "title": "24/7 service",
+        "desc": "Annual contracts and emergency response."
+      }
     }
   },
   "process": {
@@ -177,9 +199,18 @@
     "title": "Three steps to perfect climate.",
     "subtitle": "Simple, transparent, and built around your space.",
     "steps": {
-      "visit": { "title": "Free site visit", "desc": "An engineer visits, measures and listens to your needs." },
-      "design": { "title": "Tailored design", "desc": "We send a clear quote with the right system and price." },
-      "install": { "title": "Clean install", "desc": "Trained technicians, hidden runs, leave-no-trace finish." }
+      "visit": {
+        "title": "Free site visit",
+        "desc": "An engineer visits, measures and listens to your needs."
+      },
+      "design": {
+        "title": "Tailored design",
+        "desc": "We send a clear quote with the right system and price."
+      },
+      "install": {
+        "title": "Clean install",
+        "desc": "Trained technicians, hidden runs, leave-no-trace finish."
+      }
     }
   },
   "testimonialsBlock": {
@@ -192,11 +223,26 @@
     "title": "Things people ask us.",
     "subtitle": "Can't find your question? Call us — we love a good HVAC chat.",
     "items": [
-      { "q": "How long does an installation take?", "a": "Most residential split systems are installed in a single day. Multi-split and VRF systems usually take 2–5 days depending on scope." },
-      { "q": "Do you offer financing?", "a": "Yes — we partner with local banks for installment plans up to 36 months on installations above €1 500." },
-      { "q": "Is the site visit really free?", "a": "Yes. We come out, measure, advise, and send you a written quote at no cost or obligation." },
-      { "q": "Which brands do you work with?", "a": "We are authorised installers of Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung and Gree." },
-      { "q": "Do you service systems we did not install?", "a": "Absolutely. Our service team works with all major brands and offers annual maintenance contracts." }
+      {
+        "q": "How long does an installation take?",
+        "a": "Most residential split systems are installed in a single day. Multi-split and VRF systems usually take 2–5 days depending on scope."
+      },
+      {
+        "q": "Do you offer financing?",
+        "a": "Yes — we partner with local banks for installment plans up to 36 months on installations above €1 500."
+      },
+      {
+        "q": "Is the site visit really free?",
+        "a": "Yes. We come out, measure, advise, and send you a written quote at no cost or obligation."
+      },
+      {
+        "q": "Which brands do you work with?",
+        "a": "We are authorised installers of Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung and Gree."
+      },
+      {
+        "q": "Do you service systems we did not install?",
+        "a": "Absolutely. Our service team works with all major brands and offers annual maintenance contracts."
+      }
     ]
   },
   "sticky": {
@@ -249,5 +295,22 @@
     "title": "Tell us about your space.",
     "subtitle": "Drop your details — we reply within 24 hours with a tailored plan.",
     "cta": "Request a free quote"
+  },
+  "blog": {
+    "eyebrow": "Tips & guides",
+    "pageTitle": "Blog & advice",
+    "pageSubtitle": "Guides, prices and tips on air conditioning, heating and ventilation in Gostivar, Tetovo and Polog.",
+    "readMore": "Read more",
+    "minRead": "min read",
+    "backToBlog": "Back to blog",
+    "relatedTitle": "Related articles",
+    "updatedOn": "Updated",
+    "allPosts": "All posts",
+    "categories": {
+      "local": "Local",
+      "prices": "Prices",
+      "guide": "Guide",
+      "heating": "Heating"
+    }
   }
 }

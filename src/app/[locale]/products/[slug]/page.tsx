@@ -9,6 +9,7 @@ import { Eyebrow } from "@/components/ui/eyebrow";
 import { Button } from "@/components/ui/button";
 import { CTA } from "@/components/sections/cta";
 import { formatNumber } from "@/lib/utils";
+import { JsonLd, productSchema, breadcrumbSchema } from "@/components/site/json-ld";
 
 export function generateStaticParams() {
   return locales.flatMap((locale) =>
@@ -43,6 +44,25 @@ export default async function ProductDetailPage({
 
   return (
     <>
+      <JsonLd
+        data={[
+          productSchema({
+            name: product.name,
+            brand: product.brand,
+            sku: product.sku,
+            image: product.image,
+            category: dict.products.categories[product.category],
+            priceMkd: product.priceMkd,
+            url: `/${locale}/products/${product.slug}/`,
+            energyClass: product.energyClass,
+          }),
+          breadcrumbSchema([
+            { name: dict.nav.home, url: `/${locale}/` },
+            { name: dict.products.pageTitle, url: `/${locale}/products/` },
+            { name: product.name, url: `/${locale}/products/${product.slug}/` },
+          ]),
+        ]}
+      />
       <section className="relative overflow-hidden hero-mesh">
         <div className="absolute inset-0 grid-bg pointer-events-none" aria-hidden />
         <div className="container-x relative pt-6 md:pt-8 pb-12 md:pb-16">

@@ -1,5 +1,6 @@
 import type { Metadata, Viewport } from "next";
 import { Inter, Space_Grotesk } from "next/font/google";
+import { SITE_URL } from "@/lib/site";
 import "./globals.css";
 
 const inter = Inter({
@@ -21,8 +22,8 @@ export const metadata: Metadata = {
     template: "%s · Akva System ZZ",
   },
   description:
-    "Akva System ZZ — design, installation and service of premium air-conditioning, heating and ventilation systems in North Macedonia.",
-  metadataBase: new URL("https://akvasystem.mk"),
+    "Akva System ZZ — design, installation and service of premium air-conditioning, heating and ventilation systems in Gostivar, Tetovo and across North Macedonia.",
+  metadataBase: new URL(SITE_URL),
   icons: { icon: "/favicon.ico" },
 };
 

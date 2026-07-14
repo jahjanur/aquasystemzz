@@ -5,6 +5,7 @@ import { getDictionary } from "@/lib/i18n/get-dictionary";
 import { Header } from "@/components/site/header";
 import { Footer } from "@/components/site/footer";
 import { StickyMobileCTA } from "@/components/site/sticky-cta";
+import { JsonLd, localBusinessSchema, webSiteSchema } from "@/components/site/json-ld";
 
 export function generateStaticParams() {
   return locales.map((locale) => ({ locale }));
@@ -39,6 +40,7 @@ export default async function LocaleLayout({
   const dict = getDictionary(locale as Locale);
   return (
     <>
+      <JsonLd data={[localBusinessSchema(), webSiteSchema()]} />
       <Header locale={locale as Locale} dict={dict} />
       <main className="flex-1">{children}</main>
       <Footer locale={locale as Locale} dict={dict} />

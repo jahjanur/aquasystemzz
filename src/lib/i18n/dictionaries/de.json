@@ -9,6 +9,7 @@
     "products": "Produkte",
     "projects": "Projekte",
     "about": "Über uns",
+    "blog": "Blog",
     "contact": "Kontakt",
     "getQuote": "Angebot anfragen"
   },
@@ -120,9 +121,18 @@
     "missionText": "Premium-Komfort zugänglich machen — mit fairen Preisen, kompromissloser Qualität und Service, der über die Übergabe hinaus für Sie da ist.",
     "valuesTitle": "Was uns antreibt",
     "values": {
-      "quality": { "title": "Qualität ohne Kompromiss", "desc": "Nur zertifizierte Geräte von führenden Marken." },
-      "precision": { "title": "Präzise Ausführung", "desc": "Saubere Linien, verdeckte Leitungen, perfekte Luftverteilung." },
-      "support": { "title": "Betreuung nach der Übergabe", "desc": "Serviceverträge, Notfalleinsätze, Originalteile." }
+      "quality": {
+        "title": "Qualität ohne Kompromiss",
+        "desc": "Nur zertifizierte Geräte von führenden Marken."
+      },
+      "precision": {
+        "title": "Präzise Ausführung",
+        "desc": "Saubere Linien, verdeckte Leitungen, perfekte Luftverteilung."
+      },
+      "support": {
+        "title": "Betreuung nach der Übergabe",
+        "desc": "Serviceverträge, Notfalleinsätze, Originalteile."
+      }
     }
   },
   "contact": {
@@ -166,10 +176,22 @@
     "title": "Komfort, der bleibt.",
     "subtitle": "Autorisierter Installateur führender Marken, zertifizierte Ingenieure und ein Service-Team, das ans Telefon geht.",
     "items": {
-      "warranty": { "title": "5+ Jahre Garantie", "desc": "Originalteile, beim Hersteller registriert." },
-      "certified": { "title": "Autorisierter Partner", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG u. a." },
-      "fast": { "title": "Angebot in 48 Std.", "desc": "Vor-Ort-Termin, Aufmaß und individuelles Angebot." },
-      "support": { "title": "24/7 Service", "desc": "Jahresverträge und Notfalleinsätze." }
+      "warranty": {
+        "title": "5+ Jahre Garantie",
+        "desc": "Originalteile, beim Hersteller registriert."
+      },
+      "certified": {
+        "title": "Autorisierter Partner",
+        "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG u. a."
+      },
+      "fast": {
+        "title": "Angebot in 48 Std.",
+        "desc": "Vor-Ort-Termin, Aufmaß und individuelles Angebot."
+      },
+      "support": {
+        "title": "24/7 Service",
+        "desc": "Jahresverträge und Notfalleinsätze."
+      }
     }
   },
   "process": {
@@ -177,9 +199,18 @@
     "title": "Drei Schritte zum perfekten Klima.",
     "subtitle": "Einfach, transparent, abgestimmt auf Ihren Raum.",
     "steps": {
-      "visit": { "title": "Kostenloser Vor-Ort-Termin", "desc": "Ein Ingenieur kommt, misst und hört zu." },
-      "design": { "title": "Individuelle Planung", "desc": "Klares Angebot mit dem richtigen System und Preis." },
-      "install": { "title": "Saubere Installation", "desc": "Geschulte Techniker, verdeckte Leitungen, makelloses Finish." }
+      "visit": {
+        "title": "Kostenloser Vor-Ort-Termin",
+        "desc": "Ein Ingenieur kommt, misst und hört zu."
+      },
+      "design": {
+        "title": "Individuelle Planung",
+        "desc": "Klares Angebot mit dem richtigen System und Preis."
+      },
+      "install": {
+        "title": "Saubere Installation",
+        "desc": "Geschulte Techniker, verdeckte Leitungen, makelloses Finish."
+      }
     }
   },
   "testimonialsBlock": {
@@ -192,11 +223,26 @@
     "title": "Häufige Fragen.",
     "subtitle": "Frage nicht dabei? Rufen Sie uns an — wir beraten gerne.",
     "items": [
-      { "q": "Wie lange dauert die Installation?", "a": "Wohn-Split-Systeme werden meist an einem Tag installiert. Multi-Split und VRF dauern je nach Umfang 2–5 Tage." },
-      { "q": "Bieten Sie Finanzierung?", "a": "Ja — wir arbeiten mit lokalen Banken zusammen, Ratenzahlung bis 36 Monate ab 1 500 €." },
-      { "q": "Ist der Vor-Ort-Termin wirklich kostenlos?", "a": "Ja. Wir kommen, messen, beraten und senden ein schriftliches Angebot — kostenlos und unverbindlich." },
-      { "q": "Mit welchen Marken arbeiten Sie?", "a": "Wir sind autorisierte Installateure von Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung und Gree." },
-      { "q": "Warten Sie auch Systeme, die Sie nicht installiert haben?", "a": "Selbstverständlich. Unser Service-Team arbeitet mit allen großen Marken und bietet Jahresverträge." }
+      {
+        "q": "Wie lange dauert die Installation?",
+        "a": "Wohn-Split-Systeme werden meist an einem Tag installiert. Multi-Split und VRF dauern je nach Umfang 2–5 Tage."
+      },
+      {
+        "q": "Bieten Sie Finanzierung?",
+        "a": "Ja — wir arbeiten mit lokalen Banken zusammen, Ratenzahlung bis 36 Monate ab 1 500 €."
+      },
+      {
+        "q": "Ist der Vor-Ort-Termin wirklich kostenlos?",
+        "a": "Ja. Wir kommen, messen, beraten und senden ein schriftliches Angebot — kostenlos und unverbindlich."
+      },
+      {
+        "q": "Mit welchen Marken arbeiten Sie?",
+        "a": "Wir sind autorisierte Installateure von Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung und Gree."
+      },
+      {
+        "q": "Warten Sie auch Systeme, die Sie nicht installiert haben?",
+        "a": "Selbstverständlich. Unser Service-Team arbeitet mit allen großen Marken und bietet Jahresverträge."
+      }
     ]
   },
   "sticky": {
@@ -249,5 +295,22 @@
     "title": "Erzählen Sie uns von Ihrem Raum.",
     "subtitle": "Hinterlassen Sie Ihre Daten — wir antworten innerhalb von 24 Std. mit einem maßgeschneiderten Plan.",
     "cta": "Kostenloses Angebot"
+  },
+  "blog": {
+    "eyebrow": "Tipps & Ratgeber",
+    "pageTitle": "Blog & Ratgeber",
+    "pageSubtitle": "Ratgeber, Preise und Tipps zu Klimaanlagen, Heizung und Lüftung in Gostivar, Tetovo und der Polog-Region.",
+    "readMore": "Mehr lesen",
+    "minRead": "Min. Lesezeit",
+    "backToBlog": "Zurück zum Blog",
+    "relatedTitle": "Ähnliche Artikel",
+    "updatedOn": "Aktualisiert",
+    "allPosts": "Alle Beiträge",
+    "categories": {
+      "local": "Lokal",
+      "prices": "Preise",
+      "guide": "Ratgeber",
+      "heating": "Heizung"
+    }
   }
 }

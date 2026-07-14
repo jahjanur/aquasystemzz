@@ -10,3 +10,10 @@ export function cn(...inputs: ClassValue[]) {
 export function formatNumber(n: number, sep = "."): string {
   return Math.round(n).toString().replace(/\B(?=(\d{3})+(?!\d))/g, sep);
 }
+
+// Deterministic DD.MM.YYYY formatter from an ISO date (YYYY-MM-DD). Same reason
+// as formatNumber: no Intl, so server and client output match exactly.
+export function formatDate(iso: string): string {
+  const [y, m, d] = iso.split("-");
+  return `${d}.${m}.${y}`;
+}
