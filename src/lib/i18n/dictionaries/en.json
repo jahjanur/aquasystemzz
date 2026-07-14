@@ -1,0 +1,253 @@
+{
+  "brand": {
+    "name": "Akva System ZZ",
+    "tagline": "Precise climate. Effortless comfort."
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "products": "Products",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "getQuote": "Get a quote"
+  },
+  "common": {
+    "learnMore": "Learn more",
+    "viewAll": "View all",
+    "readMore": "Read more",
+    "backToHome": "Back to home",
+    "loading": "Loading…",
+    "filter": "Filter",
+    "clearFilters": "Clear filters",
+    "results": "results",
+    "noResults": "No results match these filters.",
+    "callUs": "Call us",
+    "writeUs": "Write to us",
+    "since": "Since",
+    "yearsExperience": "years of experience",
+    "happyClients": "happy clients",
+    "completedProjects": "completed projects"
+  },
+  "home": {
+    "heroEyebrow": "Authorised HVAC partner · Gostivar",
+    "heroTitle": "Air that transforms a space.",
+    "heroSubtitle": "Design, installation and maintenance of premium climate, heating and ventilation systems for homes and businesses across North Macedonia.",
+    "heroCtaPrimary": "Get a free quote",
+    "heroCtaSecondary": "Explore products",
+    "trustedBy": "Trusted by leading brands",
+    "servicesEyebrow": "What we do",
+    "servicesTitle": "Complete HVAC solutions, one team",
+    "servicesSubtitle": "From a single room to an entire building — we cover the full lifecycle: design, supply, installation and service.",
+    "productsEyebrow": "Products",
+    "productsTitle": "Premium equipment from world leaders",
+    "productsSubtitle": "Only certified, energy-efficient and whisper-quiet systems with full warranty.",
+    "projectsEyebrow": "Projects",
+    "projectsTitle": "Work we are proud of",
+    "projectsSubtitle": "Residential villas, office spaces and commercial facilities.",
+    "ctaTitle": "Ready for the perfect climate?",
+    "ctaSubtitle": "Our team visits, measures, and delivers a tailored quote within 48 hours.",
+    "ctaButton": "Get started"
+  },
+  "services": {
+    "pageTitle": "Services",
+    "pageSubtitle": "Full service — from concept to commissioning.",
+    "items": {
+      "residential": {
+        "title": "Residential climate",
+        "desc": "Split and multi-split systems for apartments, houses and villas — quiet, efficient and beautifully integrated."
+      },
+      "commercial": {
+        "title": "Commercial systems",
+        "desc": "VRF/VRV, chillers and ducted units for offices, retail and hotels."
+      },
+      "heatPumps": {
+        "title": "Heat pumps",
+        "desc": "Air-to-water and underfloor — efficient heating and domestic hot water."
+      },
+      "ventilation": {
+        "title": "Ventilation & recovery",
+        "desc": "Fresh air 24/7 with up to 90% energy recovery."
+      },
+      "maintenance": {
+        "title": "Service & maintenance",
+        "desc": "Annual contracts, emergency response and genuine spare parts."
+      },
+      "design": {
+        "title": "Engineering & design",
+        "desc": "Technical projects, BIM coordination and energy optimisation."
+      }
+    }
+  },
+  "products": {
+    "pageTitle": "Products",
+    "pageSubtitle": "Premium air conditioners, heat pumps and ventilation systems.",
+    "filters": {
+      "category": "Category",
+      "brand": "Brand",
+      "capacity": "Capacity (BTU)",
+      "roomSize": "Room size",
+      "all": "All"
+    },
+    "categories": {
+      "split": "Split",
+      "multisplit": "Multi-split",
+      "vrf": "VRF / VRV",
+      "heatpump": "Heat pumps",
+      "ventilation": "Ventilation"
+    },
+    "card": {
+      "from": "from",
+      "viewDetails": "View details"
+    }
+  },
+  "projects": {
+    "pageTitle": "Projects",
+    "pageSubtitle": "Selected work across North Macedonia and the region.",
+    "all": "All",
+    "categories": {
+      "residential": "Residential",
+      "commercial": "Commercial",
+      "industrial": "Industrial",
+      "hospitality": "Hospitality"
+    }
+  },
+  "about": {
+    "pageTitle": "About us",
+    "pageSubtitle": "Akva System ZZ — HVAC craftsmanship from Gostivar.",
+    "intro": "From our workshop in Gostivar, Akva System ZZ designs and installs climate, heating and ventilation systems for the most demanding homes and businesses across Macedonia. We believe in clean air, precise execution and long-term support.",
+    "missionTitle": "Our mission",
+    "missionText": "To make premium comfort accessible — with fair pricing, uncompromising quality, and service that takes care of you long after handover.",
+    "valuesTitle": "What drives us",
+    "values": {
+      "quality": { "title": "No-compromise quality", "desc": "Only certified equipment from leading brands." },
+      "precision": { "title": "Precise execution", "desc": "Clean lines, hidden runs, perfect air balance." },
+      "support": { "title": "Support after handover", "desc": "Service contracts, emergency response, genuine parts." }
+    }
+  },
+  "contact": {
+    "pageTitle": "Contact",
+    "pageSubtitle": "We're here for questions, quotes and emergency service.",
+    "form": {
+      "name": "Full name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send message",
+      "submitting": "Sending…",
+      "success": "Message received. We'll get back to you within 24 hours.",
+      "error": "Something went wrong. Please try again or call us directly."
+    },
+    "info": {
+      "address": "Address",
+      "addressValue": "Brakja Blazhevski 9, Gostivar 1230",
+      "phone": "Phone",
+      "email": "Email",
+      "hours": "Hours",
+      "hoursValue": "Mon–Sat · 08:00–18:00"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "company": "Company",
+    "explore": "Explore",
+    "contact": "Contact",
+    "newsletter": "Stay in the loop",
+    "newsletterSubtitle": "Climate tips and seasonal offers.",
+    "subscribe": "Subscribe"
+  },
+  "rating": {
+    "label": "Rated 4.9 on Google",
+    "reviews": "200+ reviews"
+  },
+  "whyUs": {
+    "eyebrow": "Why Akva System ZZ",
+    "title": "Built for comfort that lasts.",
+    "subtitle": "Authorised installer of leading brands, certified engineers, and a service team that picks up the phone.",
+    "items": {
+      "warranty": { "title": "5+ year warranty", "desc": "Genuine parts, registered with the manufacturer." },
+      "certified": { "title": "Authorised partner", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG and more." },
+      "fast": { "title": "Quote in 48 hours", "desc": "On-site visit, measurements, and a tailored offer." },
+      "support": { "title": "24/7 service", "desc": "Annual contracts and emergency response." }
+    }
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Three steps to perfect climate.",
+    "subtitle": "Simple, transparent, and built around your space.",
+    "steps": {
+      "visit": { "title": "Free site visit", "desc": "An engineer visits, measures and listens to your needs." },
+      "design": { "title": "Tailored design", "desc": "We send a clear quote with the right system and price." },
+      "install": { "title": "Clean install", "desc": "Trained technicians, hidden runs, leave-no-trace finish." }
+    }
+  },
+  "testimonialsBlock": {
+    "eyebrow": "Reviews",
+    "title": "Clients who keep coming back.",
+    "subtitle": "Real feedback from homes and businesses across North Macedonia."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Things people ask us.",
+    "subtitle": "Can't find your question? Call us — we love a good HVAC chat.",
+    "items": [
+      { "q": "How long does an installation take?", "a": "Most residential split systems are installed in a single day. Multi-split and VRF systems usually take 2–5 days depending on scope." },
+      { "q": "Do you offer financing?", "a": "Yes — we partner with local banks for installment plans up to 36 months on installations above €1 500." },
+      { "q": "Is the site visit really free?", "a": "Yes. We come out, measure, advise, and send you a written quote at no cost or obligation." },
+      { "q": "Which brands do you work with?", "a": "We are authorised installers of Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung and Gree." },
+      { "q": "Do you service systems we did not install?", "a": "Absolutely. Our service team works with all major brands and offers annual maintenance contracts." }
+    ]
+  },
+  "sticky": {
+    "promo": "Free consultation this month",
+    "cta": "Book a call"
+  },
+  "consultation": {
+    "title": "Free consultation",
+    "subtitle": "Leave your name and email — we'll start the call right away and send you confirmation.",
+    "name": "Full name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "submit": "Continue & call",
+    "skip": "Skip — just call",
+    "callingTitle": "Calling 078 433 882…",
+    "callingHint": "If your phone doesn't dial automatically, tap the number below.",
+    "callBtn": "Call now",
+    "close": "Close"
+  },
+  "sizing": {
+    "eyebrow": "AC sizing tool",
+    "title": "Find the right AC in 30 seconds.",
+    "subtitle": "Tell us about your space and we'll recommend the BTU, kW and matching products.",
+    "area": "Total area",
+    "rooms": "Rooms to cool",
+    "roomType": "Used as",
+    "sun": "Sun exposure",
+    "result": "Recommended size",
+    "single": "Single-split system",
+    "multi": "Multi-split system",
+    "matching": "Matching products",
+    "noMatch": "No exact match — request a quote and we'll source the right unit.",
+    "cta": "Get a tailored quote",
+    "viewMore": "See all matching products",
+    "types": {
+      "bedroom": "Bedroom",
+      "living": "Living room",
+      "kitchen": "Kitchen",
+      "office": "Office",
+      "shop": "Shop / retail"
+    },
+    "sunLevels": {
+      "low": "Shaded",
+      "normal": "Normal",
+      "high": "Sunny / top floor"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "Let's talk",
+    "title": "Tell us about your space.",
+    "subtitle": "Drop your details — we reply within 24 hours with a tailored plan.",
+    "cta": "Request a free quote"
+  }
+}

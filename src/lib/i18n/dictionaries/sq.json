@@ -1,0 +1,253 @@
+{
+  "brand": {
+    "name": "Akva System ZZ",
+    "tagline": "Klimë precize. Komfort i përsosur."
+  },
+  "nav": {
+    "home": "Ballina",
+    "services": "Shërbime",
+    "products": "Produkte",
+    "projects": "Projekte",
+    "about": "Rreth nesh",
+    "contact": "Kontakt",
+    "getQuote": "Kërko ofertë"
+  },
+  "common": {
+    "learnMore": "Mëso më shumë",
+    "viewAll": "Shih të gjitha",
+    "readMore": "Lexo më shumë",
+    "backToHome": "Kthehu në ballinë",
+    "loading": "Duke u ngarkuar…",
+    "filter": "Filtro",
+    "clearFilters": "Pastro filtrat",
+    "results": "rezultate",
+    "noResults": "Nuk ka rezultate për këto filtra.",
+    "callUs": "Na telefono",
+    "writeUs": "Na shkruaj",
+    "since": "Që nga",
+    "yearsExperience": "vite përvojë",
+    "happyClients": "klientë të kënaqur",
+    "completedProjects": "projekte të realizuara"
+  },
+  "home": {
+    "heroEyebrow": "Partner i autorizuar HVAC · Gostivar",
+    "heroTitle": "Ajër që transformon hapësirën.",
+    "heroSubtitle": "Dizajn, instalim dhe mirëmbajtje e sistemeve premium të kondicionimit, ngrohjes dhe ventilimit për shtëpi e biznese në Maqedoni.",
+    "heroCtaPrimary": "Kërko ofertë falas",
+    "heroCtaSecondary": "Shfleto produktet",
+    "trustedBy": "Partnerë të besuar",
+    "servicesEyebrow": "Çfarë bëjmë",
+    "servicesTitle": "Zgjidhje të plota HVAC në një vend",
+    "servicesSubtitle": "Nga një dhomë te një ndërtesë e tërë — mbulojmë gjithçka: projekt, furnizim, instalim, servisim.",
+    "productsEyebrow": "Produkte",
+    "productsTitle": "Pajisje premium nga liderët botërorë",
+    "productsSubtitle": "Vetëm pajisje të certifikuara me garanci, eficiente dhe të heshtura.",
+    "projectsEyebrow": "Projekte",
+    "projectsTitle": "Realizime me të cilat krenohemi",
+    "projectsSubtitle": "Vila rezidenciale, hapësira zyre dhe objekte komerciale.",
+    "ctaTitle": "Gati për komfort të përsosur?",
+    "ctaSubtitle": "Ekipi ynë del në terren, mat dhe dorëzon ofertën brenda 48 orëve.",
+    "ctaButton": "Fillo tani"
+  },
+  "services": {
+    "pageTitle": "Shërbime",
+    "pageSubtitle": "Shërbim i plotë — nga ideja deri te vënia në punë.",
+    "items": {
+      "residential": {
+        "title": "Klimatizim rezidencial",
+        "desc": "Sisteme split dhe multi-split për banesa, shtëpi e vila — të heshtura, eficiente dhe të integruara me elegancë."
+      },
+      "commercial": {
+        "title": "Sisteme komerciale",
+        "desc": "VRF/VRV, çillerë dhe njësi kanali për zyra, dyqane dhe hotele."
+      },
+      "heatPumps": {
+        "title": "Pompa nxehtësie",
+        "desc": "Ajër-ujë dhe dysheme me ujë të ngrohtë — ngrohje eficiente dhe ujë sanitar."
+      },
+      "ventilation": {
+        "title": "Ventilim me rekuperim",
+        "desc": "Ajër i freskët 24/7 me deri 90% rikthim energjie."
+      },
+      "maintenance": {
+        "title": "Servisim & mirëmbajtje",
+        "desc": "Kontrata vjetore, intervenime urgjente dhe pjesë origjinale."
+      },
+      "design": {
+        "title": "Projektim teknik",
+        "desc": "Projekte teknike, koordinim BIM dhe optimizim energjetik."
+      }
+    }
+  },
+  "products": {
+    "pageTitle": "Produkte",
+    "pageSubtitle": "Klimatizatorë premium, pompa nxehtësie dhe sisteme ventilimi.",
+    "filters": {
+      "category": "Kategoria",
+      "brand": "Markë",
+      "capacity": "Kapaciteti (BTU)",
+      "roomSize": "Madhësia e dhomës",
+      "all": "Të gjitha"
+    },
+    "categories": {
+      "split": "Split",
+      "multisplit": "Multi-split",
+      "vrf": "VRF / VRV",
+      "heatpump": "Pompa nxehtësie",
+      "ventilation": "Ventilim"
+    },
+    "card": {
+      "from": "nga",
+      "viewDetails": "Detajet"
+    }
+  },
+  "projects": {
+    "pageTitle": "Projekte",
+    "pageSubtitle": "Realizime të zgjedhura në Maqedoni dhe rajon.",
+    "all": "Të gjitha",
+    "categories": {
+      "residential": "Rezidenciale",
+      "commercial": "Komerciale",
+      "industrial": "Industriale",
+      "hospitality": "Hoteleri"
+    }
+  },
+  "about": {
+    "pageTitle": "Rreth nesh",
+    "pageSubtitle": "Akva System ZZ — mjeshtëri HVAC nga Gostivari.",
+    "intro": "Nga ofiçina jonë në Gostivar, Akva System ZZ dizajnon dhe instalon sisteme klimatizimi, ngrohjeje dhe ventilimi për shtëpitë dhe bizneset më të kërkuara në Maqedoni. Besojmë në ajër të pastër, zbatim precis dhe mbështetje afatgjate.",
+    "missionTitle": "Misioni ynë",
+    "missionText": "Ta bëjmë komfortin premium të arritshëm — me çmim të drejtë, cilësi pa kompromis dhe shërbim që kujdeset edhe pas dorëzimit.",
+    "valuesTitle": "Çfarë na udhëheq",
+    "values": {
+      "quality": { "title": "Cilësi pa kompromis", "desc": "Vetëm pajisje të certifikuara nga markat lider." },
+      "precision": { "title": "Zbatim precis", "desc": "Linja të pastra, gypa të fshehur, balancim i përsosur i ajrit." },
+      "support": { "title": "Mbështetje pas dorëzimit", "desc": "Kontrata servisi, intervenime urgjente, pjesë origjinale." }
+    }
+  },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "pageSubtitle": "Jemi këtu për pyetje, oferta dhe servisime urgjente.",
+    "form": {
+      "name": "Emër & mbiemër",
+      "email": "Email",
+      "phone": "Telefon",
+      "subject": "Tema",
+      "message": "Mesazhi",
+      "submit": "Dërgo mesazhin",
+      "submitting": "Duke u dërguar…",
+      "success": "Mesazhi u prit. Do t'ju përgjigjemi brenda 24 orëve.",
+      "error": "Diçka shkoi keq. Provo sërish ose telefonona."
+    },
+    "info": {
+      "address": "Adresa",
+      "addressValue": "Bracha Blazhevski 9, Gostivar 1230",
+      "phone": "Telefon",
+      "email": "Email",
+      "hours": "Orari",
+      "hoursValue": "Hën–Sht · 08:00–18:00"
+    }
+  },
+  "footer": {
+    "rights": "Të gjitha të drejtat e rezervuara.",
+    "company": "Kompania",
+    "explore": "Eksploro",
+    "contact": "Kontakt",
+    "newsletter": "Qëndro i informuar",
+    "newsletterSubtitle": "Këshilla për klimatizim dhe oferta sezonale.",
+    "subscribe": "Abonohu"
+  },
+  "rating": {
+    "label": "Vlerësim 4.9 në Google",
+    "reviews": "200+ vlerësime"
+  },
+  "whyUs": {
+    "eyebrow": "Pse Akva System ZZ",
+    "title": "Të ndërtuar për komfort që zgjat.",
+    "subtitle": "Instalues i autorizuar i markave lider, inxhinierë të çertifikuar dhe një ekip servisi që ngre telefonin.",
+    "items": {
+      "warranty": { "title": "Garanci 5+ vjet", "desc": "Pjesë origjinale, të regjistruara te prodhuesi." },
+      "certified": { "title": "Partner i autorizuar", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG e të tjera." },
+      "fast": { "title": "Ofertë për 48 orë", "desc": "Vizitë në vend, matje dhe ofertë e personalizuar." },
+      "support": { "title": "Servis 24/7", "desc": "Kontrata vjetore dhe intervenime urgjente." }
+    }
+  },
+  "process": {
+    "eyebrow": "Si funksionon",
+    "title": "Tri hapa drejt klimatizimit të përsosur.",
+    "subtitle": "Thjeshtë, transparent dhe i ndërtuar rreth hapësirës suaj.",
+    "steps": {
+      "visit": { "title": "Vizitë falas", "desc": "Një inxhinier vjen, mat dhe dëgjon nevojat tuaja." },
+      "design": { "title": "Dizajn i personalizuar", "desc": "Dërgojmë një ofertë të qartë me sistemin dhe çmimin e duhur." },
+      "install": { "title": "Instalim i pastër", "desc": "Teknikë të trajnuar, gypa të fshehur, asnjë gjurmë." }
+    }
+  },
+  "testimonialsBlock": {
+    "eyebrow": "Vlerësime",
+    "title": "Klientë që vazhdojnë të kthehen.",
+    "subtitle": "Reagime reale nga shtëpi dhe biznese në Maqedoninë e Veriut."
+  },
+  "faq": {
+    "eyebrow": "Pyetje",
+    "title": "Çfarë na pyesin më shpesh.",
+    "subtitle": "Nuk e gjeni përgjigjen? Telefononi — flasim me kënaqësi për HVAC.",
+    "items": [
+      { "q": "Sa zgjat instalimi?", "a": "Sistemet split rezidenciale instalohen kryesisht në një ditë. Multi-split dhe VRF zgjasin 2–5 ditë sipas projektit." },
+      { "q": "A ofroni financim?", "a": "Po — bashkëpunojmë me banka lokale për këste deri në 36 muaj për instalime mbi 1 500 €." },
+      { "q": "A është vërtet falas vizita?", "a": "Po. Vijmë, masim, këshillojmë dhe dërgojmë një ofertë me shkrim pa kosto dhe pa detyrim." },
+      { "q": "Me cilat marka punoni?", "a": "Jemi instalues të autorizuar të Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung dhe Gree." },
+      { "q": "A servisoni sistemet që nuk i keni instaluar ju?", "a": "Sigurisht. Ekipi ynë punon me të gjitha markat dhe ofron kontrata vjetore mirëmbajtjeje." }
+    ]
+  },
+  "sticky": {
+    "promo": "Konsultë falas këtë muaj",
+    "cta": "Cakto bisedën"
+  },
+  "consultation": {
+    "title": "Konsultë falas",
+    "subtitle": "Lër emrin dhe email-in — nisim telefonatën menjëherë dhe të dërgojmë konfirmim.",
+    "name": "Emri & mbiemri",
+    "email": "Email",
+    "phone": "Telefon (opsional)",
+    "submit": "Vazhdo & telefono",
+    "skip": "Kapërce — vetëm telefono",
+    "callingTitle": "Po telefonon 078 433 882…",
+    "callingHint": "Nëse telefoni nuk hapet vetë, prek numrin më poshtë.",
+    "callBtn": "Telefono tani",
+    "close": "Mbyll"
+  },
+  "sizing": {
+    "eyebrow": "Kalkulator klime",
+    "title": "Gjej klimën e duhur për 30 sekonda.",
+    "subtitle": "Na trego për hapësirën — rekomandojmë BTU, kW dhe produkte përkatëse.",
+    "area": "Sipërfaqja totale",
+    "rooms": "Dhoma për t'u ftohur",
+    "roomType": "Përdorimi",
+    "sun": "Ekspozimi në diell",
+    "result": "Madhësia e rekomanduar",
+    "single": "Sistem single-split",
+    "multi": "Sistem multi-split",
+    "matching": "Produkte përkatëse",
+    "noMatch": "Nuk ka përputhje të saktë — kërko një ofertë dhe gjejmë njësinë e duhur.",
+    "cta": "Kërko ofertë të personalizuar",
+    "viewMore": "Shih të gjitha produktet përkatëse",
+    "types": {
+      "bedroom": "Dhoma e gjumit",
+      "living": "Dhoma e ditës",
+      "kitchen": "Kuzhina",
+      "office": "Zyra",
+      "shop": "Dyqan"
+    },
+    "sunLevels": {
+      "low": "Hije",
+      "normal": "Normal",
+      "high": "Diellor / kati i fundit"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "Të flasim",
+    "title": "Na tregoni për hapësirën tuaj.",
+    "subtitle": "Lini detajet — përgjigjemi brenda 24 orëve me një plan të personalizuar.",
+    "cta": "Kërko ofertë falas"
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "brand": {
+    "name": "Akva System ZZ",
+    "tagline": "Präzises Klima. Müheloser Komfort."
+  },
+  "nav": {
+    "home": "Start",
+    "services": "Leistungen",
+    "products": "Produkte",
+    "projects": "Projekte",
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "getQuote": "Angebot anfragen"
+  },
+  "common": {
+    "learnMore": "Mehr erfahren",
+    "viewAll": "Alle ansehen",
+    "readMore": "Weiterlesen",
+    "backToHome": "Zur Startseite",
+    "loading": "Lädt…",
+    "filter": "Filtern",
+    "clearFilters": "Filter löschen",
+    "results": "Ergebnisse",
+    "noResults": "Keine Ergebnisse für diese Filter.",
+    "callUs": "Anrufen",
+    "writeUs": "Schreiben Sie uns",
+    "since": "Seit",
+    "yearsExperience": "Jahre Erfahrung",
+    "happyClients": "zufriedene Kunden",
+    "completedProjects": "realisierte Projekte"
+  },
+  "home": {
+    "heroEyebrow": "Autorisierter HVAC-Partner · Gostivar",
+    "heroTitle": "Luft, die Räume verwandelt.",
+    "heroSubtitle": "Planung, Installation und Wartung von Premium-Klima-, Heizungs- und Lüftungssystemen für Wohn- und Geschäftsräume in ganz Nordmazedonien.",
+    "heroCtaPrimary": "Kostenloses Angebot",
+    "heroCtaSecondary": "Produkte ansehen",
+    "trustedBy": "Vertraut von führenden Marken",
+    "servicesEyebrow": "Was wir tun",
+    "servicesTitle": "Komplette HVAC-Lösungen aus einer Hand",
+    "servicesSubtitle": "Vom Einzelraum bis zum gesamten Gebäude — wir decken den vollen Zyklus ab: Planung, Lieferung, Installation, Service.",
+    "productsEyebrow": "Produkte",
+    "productsTitle": "Premium-Geräte von Weltmarktführern",
+    "productsSubtitle": "Nur zertifizierte, energieeffiziente und flüsterleise Systeme mit voller Garantie.",
+    "projectsEyebrow": "Projekte",
+    "projectsTitle": "Arbeiten, auf die wir stolz sind",
+    "projectsSubtitle": "Wohnvillen, Bürogebäude und Gewerbeobjekte.",
+    "ctaTitle": "Bereit für perfektes Klima?",
+    "ctaSubtitle": "Unser Team kommt vorbei, misst aus und liefert ein Angebot innerhalb von 48 Stunden.",
+    "ctaButton": "Jetzt starten"
+  },
+  "services": {
+    "pageTitle": "Leistungen",
+    "pageSubtitle": "Voller Service — vom Konzept bis zur Inbetriebnahme.",
+    "items": {
+      "residential": {
+        "title": "Wohnklima",
+        "desc": "Split- und Multi-Split-Systeme für Wohnungen, Häuser und Villen — leise, effizient, elegant integriert."
+      },
+      "commercial": {
+        "title": "Gewerbliche Systeme",
+        "desc": "VRF/VRV, Kaltwassersätze und Kanalgeräte für Büros, Handel und Hotels."
+      },
+      "heatPumps": {
+        "title": "Wärmepumpen",
+        "desc": "Luft-Wasser und Fußbodenheizung — effizientes Heizen und Warmwasser."
+      },
+      "ventilation": {
+        "title": "Lüftung mit Wärmerückgewinnung",
+        "desc": "Frische Luft 24/7 mit bis zu 90% Energierückgewinnung."
+      },
+      "maintenance": {
+        "title": "Service & Wartung",
+        "desc": "Jahresverträge, Notfalleinsätze und Originalersatzteile."
+      },
+      "design": {
+        "title": "Planung & Engineering",
+        "desc": "Technische Projekte, BIM-Koordination und Energieoptimierung."
+      }
+    }
+  },
+  "products": {
+    "pageTitle": "Produkte",
+    "pageSubtitle": "Premium-Klimaanlagen, Wärmepumpen und Lüftungssysteme.",
+    "filters": {
+      "category": "Kategorie",
+      "brand": "Marke",
+      "capacity": "Leistung (BTU)",
+      "roomSize": "Raumgröße",
+      "all": "Alle"
+    },
+    "categories": {
+      "split": "Split",
+      "multisplit": "Multi-Split",
+      "vrf": "VRF / VRV",
+      "heatpump": "Wärmepumpen",
+      "ventilation": "Lüftung"
+    },
+    "card": {
+      "from": "ab",
+      "viewDetails": "Details"
+    }
+  },
+  "projects": {
+    "pageTitle": "Projekte",
+    "pageSubtitle": "Ausgewählte Arbeiten in Nordmazedonien und der Region.",
+    "all": "Alle",
+    "categories": {
+      "residential": "Wohnen",
+      "commercial": "Gewerbe",
+      "industrial": "Industrie",
+      "hospitality": "Hotellerie"
+    }
+  },
+  "about": {
+    "pageTitle": "Über uns",
+    "pageSubtitle": "Akva System ZZ — HVAC-Handwerk aus Gostivar.",
+    "intro": "Von unserer Werkstatt in Gostivar plant und installiert Akva System ZZ Klima-, Heizungs- und Lüftungssysteme für die anspruchsvollsten Wohn- und Geschäftsräume Mazedoniens. Wir glauben an saubere Luft, präzise Ausführung und langfristige Betreuung.",
+    "missionTitle": "Unsere Mission",
+    "missionText": "Premium-Komfort zugänglich machen — mit fairen Preisen, kompromissloser Qualität und Service, der über die Übergabe hinaus für Sie da ist.",
+    "valuesTitle": "Was uns antreibt",
+    "values": {
+      "quality": { "title": "Qualität ohne Kompromiss", "desc": "Nur zertifizierte Geräte von führenden Marken." },
+      "precision": { "title": "Präzise Ausführung", "desc": "Saubere Linien, verdeckte Leitungen, perfekte Luftverteilung." },
+      "support": { "title": "Betreuung nach der Übergabe", "desc": "Serviceverträge, Notfalleinsätze, Originalteile." }
+    }
+  },
+  "contact": {
+    "pageTitle": "Kontakt",
+    "pageSubtitle": "Für Fragen, Angebote und Notfallservice sind wir da.",
+    "form": {
+      "name": "Vor- und Nachname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "subject": "Betreff",
+      "message": "Nachricht",
+      "submit": "Nachricht senden",
+      "submitting": "Wird gesendet…",
+      "success": "Nachricht erhalten. Wir melden uns innerhalb von 24 Stunden.",
+      "error": "Etwas ist schiefgelaufen. Bitte erneut versuchen oder direkt anrufen."
+    },
+    "info": {
+      "address": "Adresse",
+      "addressValue": "Brakja Blazhevski 9, Gostivar 1230",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "hours": "Öffnungszeiten",
+      "hoursValue": "Mo–Sa · 08:00–18:00"
+    }
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "company": "Unternehmen",
+    "explore": "Entdecken",
+    "contact": "Kontakt",
+    "newsletter": "Bleiben Sie informiert",
+    "newsletterSubtitle": "Klima-Tipps und saisonale Angebote.",
+    "subscribe": "Abonnieren"
+  },
+  "rating": {
+    "label": "4,9 auf Google",
+    "reviews": "200+ Bewertungen"
+  },
+  "whyUs": {
+    "eyebrow": "Warum Akva System ZZ",
+    "title": "Komfort, der bleibt.",
+    "subtitle": "Autorisierter Installateur führender Marken, zertifizierte Ingenieure und ein Service-Team, das ans Telefon geht.",
+    "items": {
+      "warranty": { "title": "5+ Jahre Garantie", "desc": "Originalteile, beim Hersteller registriert." },
+      "certified": { "title": "Autorisierter Partner", "desc": "Daikin, Mitsubishi, Toshiba, Panasonic, LG u. a." },
+      "fast": { "title": "Angebot in 48 Std.", "desc": "Vor-Ort-Termin, Aufmaß und individuelles Angebot." },
+      "support": { "title": "24/7 Service", "desc": "Jahresverträge und Notfalleinsätze." }
+    }
+  },
+  "process": {
+    "eyebrow": "So läuft's",
+    "title": "Drei Schritte zum perfekten Klima.",
+    "subtitle": "Einfach, transparent, abgestimmt auf Ihren Raum.",
+    "steps": {
+      "visit": { "title": "Kostenloser Vor-Ort-Termin", "desc": "Ein Ingenieur kommt, misst und hört zu." },
+      "design": { "title": "Individuelle Planung", "desc": "Klares Angebot mit dem richtigen System und Preis." },
+      "install": { "title": "Saubere Installation", "desc": "Geschulte Techniker, verdeckte Leitungen, makelloses Finish." }
+    }
+  },
+  "testimonialsBlock": {
+    "eyebrow": "Bewertungen",
+    "title": "Kunden, die immer wiederkommen.",
+    "subtitle": "Echtes Feedback aus Wohn- und Geschäftsräumen in Nordmazedonien."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufige Fragen.",
+    "subtitle": "Frage nicht dabei? Rufen Sie uns an — wir beraten gerne.",
+    "items": [
+      { "q": "Wie lange dauert die Installation?", "a": "Wohn-Split-Systeme werden meist an einem Tag installiert. Multi-Split und VRF dauern je nach Umfang 2–5 Tage." },
+      { "q": "Bieten Sie Finanzierung?", "a": "Ja — wir arbeiten mit lokalen Banken zusammen, Ratenzahlung bis 36 Monate ab 1 500 €." },
+      { "q": "Ist der Vor-Ort-Termin wirklich kostenlos?", "a": "Ja. Wir kommen, messen, beraten und senden ein schriftliches Angebot — kostenlos und unverbindlich." },
+      { "q": "Mit welchen Marken arbeiten Sie?", "a": "Wir sind autorisierte Installateure von Daikin, Mitsubishi Electric, Toshiba, Panasonic, LG, Samsung und Gree." },
+      { "q": "Warten Sie auch Systeme, die Sie nicht installiert haben?", "a": "Selbstverständlich. Unser Service-Team arbeitet mit allen großen Marken und bietet Jahresverträge." }
+    ]
+  },
+  "sticky": {
+    "promo": "Kostenlose Beratung diesen Monat",
+    "cta": "Termin vereinbaren"
+  },
+  "consultation": {
+    "title": "Kostenlose Beratung",
+    "subtitle": "Lassen Sie Name und E-Mail da — wir starten den Anruf sofort und senden Ihnen eine Bestätigung.",
+    "name": "Vor- und Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon (optional)",
+    "submit": "Weiter & anrufen",
+    "skip": "Überspringen — direkt anrufen",
+    "callingTitle": "Verbindung mit 078 433 882…",
+    "callingHint": "Wenn das Telefon nicht automatisch wählt, tippen Sie unten auf die Nummer.",
+    "callBtn": "Jetzt anrufen",
+    "close": "Schließen"
+  },
+  "sizing": {
+    "eyebrow": "Klima-Rechner",
+    "title": "Die richtige Klimaanlage in 30 Sekunden.",
+    "subtitle": "Erzählen Sie uns von Ihrem Raum — wir empfehlen BTU, kW und passende Modelle.",
+    "area": "Gesamtfläche",
+    "rooms": "Zu kühlende Räume",
+    "roomType": "Nutzung",
+    "sun": "Sonneneinstrahlung",
+    "result": "Empfohlene Größe",
+    "single": "Single-Split-System",
+    "multi": "Multi-Split-System",
+    "matching": "Passende Produkte",
+    "noMatch": "Keine exakte Übereinstimmung — fordern Sie ein Angebot an, wir finden die richtige Anlage.",
+    "cta": "Maßgeschneidertes Angebot",
+    "viewMore": "Alle passenden Produkte ansehen",
+    "types": {
+      "bedroom": "Schlafzimmer",
+      "living": "Wohnzimmer",
+      "kitchen": "Küche",
+      "office": "Büro",
+      "shop": "Geschäft"
+    },
+    "sunLevels": {
+      "low": "Schattig",
+      "normal": "Normal",
+      "high": "Sonnig / oberstes Stockwerk"
+    }
+  },
+  "finalCta": {
+    "eyebrow": "Sprechen wir",
+    "title": "Erzählen Sie uns von Ihrem Raum.",
+    "subtitle": "Hinterlassen Sie Ihre Daten — wir antworten innerhalb von 24 Std. mit einem maßgeschneiderten Plan.",
+    "cta": "Kostenloses Angebot"
+  }
+}
