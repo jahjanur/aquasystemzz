@@ -18,6 +18,40 @@ export type SetecProduct = {
 
 export const setecProducts: SetecProduct[] = [
   {
+    "slug": "midea-msafbu-12hrdnx-qrd0fgw-smart-1",
+    "sku": "7643012",
+    "name": "Midea MSAFBU-12HRDNX-QRD0FGW SMART",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 12999,
+    "priceFromEur": 211,
+    "image": "/products/midea-msafbu-12hrdnx-qrd0fgw-smart-1.webp",
+    "setecUrl": "https://setec.mk/products/midea-msafbu-12hrdnx-qrd0fgw-smart-1"
+  },
+  {
+    "slug": "midea-ez-09rd6-i-smart-solstice",
+    "sku": "7957312",
+    "name": "Midea EZ-09RD6-I SMART SOLSTICE",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 12999,
+    "priceFromEur": 211,
+    "image": "/products/midea-ez-09rd6-i-smart-solstice.jpg",
+    "setecUrl": "https://setec.mk/products/midea-ez-09rd6-i-smart-solstice"
+  },
+  {
     "slug": "midea-ez-12rd6-i-smart-solstice",
     "sku": "7957412",
     "name": "Midea EZ-12RD6-I SMART SOLSTICE",
@@ -29,10 +63,78 @@ export const setecProducts: SetecProduct[] = [
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 12975,
-    "priceFromEur": 211,
+    "priceMkd": 13999,
+    "priceFromEur": 228,
     "image": "/products/midea-ez-12rd6-i-smart-solstice.jpg",
     "setecUrl": "https://setec.mk/products/midea-ez-12rd6-i-smart-solstice"
+  },
+  {
+    "slug": "st-tac-12inv322-siberia",
+    "sku": "7968712",
+    "name": "ST TAC-12INV322 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/products/st-tac-12inv322-siberia.jpg",
+    "setecUrl": "https://setec.mk/products/st-tac-12inv322-siberia"
+  },
+  {
+    "slug": "st-tac-12soo-1",
+    "sku": "7027912",
+    "name": "ST TAC-12SOO",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 19999,
+    "priceFromEur": 325,
+    "image": "/products/st-tac-12soo-1.webp",
+    "setecUrl": "https://setec.mk/products/st-tac-12soo-1"
+  },
+  {
+    "slug": "st-pach-o09chtw-1",
+    "sku": "7332312",
+    "name": "ST PACH-O09CHTW",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 23999,
+    "priceFromEur": 390,
+    "image": "/products/st-pach-o09chtw-1.webp",
+    "setecUrl": "https://setec.mk/products/st-pach-o09chtw-1"
+  },
+  {
+    "slug": "st-gac-12inv-wifi-1",
+    "sku": "7150212",
+    "name": "ST GAC-12INV WIFI",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 25999,
+    "priceFromEur": 423,
+    "image": "/products/st-gac-12inv-wifi-1.webp",
+    "setecUrl": "https://setec.mk/products/st-gac-12inv-wifi-1"
   },
   {
     "slug": "st-mac-12soo",
@@ -86,10 +188,10 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/st-tac-09inv32-siberia"
   },
   {
-    "slug": "midea-mfa2u-09hrfnx-ga",
-    "sku": "9833012",
-    "name": "Midea MFA2U-09HRFNX(GA)",
-    "brand": "Midea",
+    "slug": "st-pac-t09pbc-1",
+    "sku": "8027812",
+    "name": "ST PAC-T09PBC",
+    "brand": "ST",
     "category": "split",
     "capacityBtu": 9000,
     "roomSizeM2": [
@@ -97,27 +199,10 @@ export const setecProducts: SetecProduct[] = [
       25
     ],
     "energyClass": "A++",
-    "priceMkd": 16173,
-    "priceFromEur": 263,
-    "image": "/products/midea-mfa2u-09hrfnx-ga.jpg",
-    "setecUrl": "https://setec.mk/products/midea-mfa2u-09hrfnx-ga"
-  },
-  {
-    "slug": "midea-msafcu-18hrfn8-qrd0gw-smart-1",
-    "sku": "7643112",
-    "name": "Midea MSAFCU-18HRFN8-QRD0GW SMART",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 16903,
-    "priceFromEur": 275,
-    "image": "/products/midea-msafcu-18hrfn8-qrd0gw-smart-1.webp",
-    "setecUrl": "https://setec.mk/products/midea-msafcu-18hrfn8-qrd0gw-smart-1"
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/products/st-pac-t09pbc-1.jpg",
+    "setecUrl": "https://setec.mk/products/st-pac-t09pbc-1"
   },
   {
     "slug": "midea-mppa-09crn7-qb7g16-a-1",
@@ -135,40 +220,6 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 358,
     "image": "/products/midea-mppa-09crn7-qb7g16-a-1.jpg",
     "setecUrl": "https://setec.mk/products/midea-mppa-09crn7-qb7g16-a-1"
-  },
-  {
-    "slug": "st-tac-12inv322-siberia",
-    "sku": "7968712",
-    "name": "ST TAC-12INV322 SIBERIA",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 24999,
-    "priceFromEur": 406,
-    "image": "/products/st-tac-12inv322-siberia.jpg",
-    "setecUrl": "https://setec.mk/products/st-tac-12inv322-siberia"
-  },
-  {
-    "slug": "midea-ez-18rd6-i-smart-solstice",
-    "sku": "7957512",
-    "name": "Midea EZ-18RD6-I SMART SOLSTICE",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 18256,
-    "priceFromEur": 297,
-    "image": "/products/midea-ez-18rd6-i-smart-solstice.jpg",
-    "setecUrl": "https://setec.mk/products/midea-ez-18rd6-i-smart-solstice"
   },
   {
     "slug": "st-pach-o12nhtw-1",
@@ -205,6 +256,23 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-mppa-09crn7-qb6-a"
   },
   {
+    "slug": "midea-msafcu-18hrfn8-qrd0gw-smart-1",
+    "sku": "7643112",
+    "name": "Midea MSAFCU-18HRFN8-QRD0GW SMART",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 18999,
+    "priceFromEur": 309,
+    "image": "/products/midea-msafcu-18hrfn8-qrd0gw-smart-1.webp",
+    "setecUrl": "https://setec.mk/products/midea-msafcu-18hrfn8-qrd0gw-smart-1"
+  },
+  {
     "slug": "st-tac-12inv32w-siberia-smart-1",
     "sku": "7843012",
     "name": "ST TAC-12INV32W SIBERIA SMART",
@@ -237,6 +305,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 423,
     "image": "/products/st-tac-12inv32wh-arctic.jpg",
     "setecUrl": "https://setec.mk/products/st-tac-12inv32wh-arctic"
+  },
+  {
+    "slug": "midea-ez-18rd6-i-smart-solstice",
+    "sku": "7957512",
+    "name": "Midea EZ-18RD6-I SMART SOLSTICE",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 19999,
+    "priceFromEur": 325,
+    "image": "/products/midea-ez-18rd6-i-smart-solstice.jpg",
+    "setecUrl": "https://setec.mk/products/midea-ez-18rd6-i-smart-solstice"
   },
   {
     "slug": "st-xac-12invba-black-arctic",
@@ -273,6 +358,40 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/bautech-bac-12invab-breezefree-1"
   },
   {
+    "slug": "midea-mfa2u-09hrfnx-ga",
+    "sku": "9833012",
+    "name": "Midea MFA2U-09HRFNX(GA)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 20999,
+    "priceFromEur": 341,
+    "image": "/products/midea-mfa2u-09hrfnx-ga.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mfa2u-09hrfnx-ga"
+  },
+  {
+    "slug": "st-pach-t12pbch-1",
+    "sku": "8027912",
+    "name": "ST PACH-T12PBCH",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 26999,
+    "priceFromEur": 439,
+    "image": "/products/st-pach-t12pbch-1.jpg",
+    "setecUrl": "https://setec.mk/products/st-pach-t12pbch-1"
+  },
+  {
     "slug": "midea-mppda-09crn7-qb7g1",
     "sku": "7581312",
     "name": "MIDEA MPPDA-09CRN7-QB7G1",
@@ -307,6 +426,40 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafau-09hrfn8-q-1"
   },
   {
+    "slug": "midea-mfa2u-12hrfnx-qrd0w-ga",
+    "sku": "7643212",
+    "name": "Midea MFA2U-12HRFNX-QRD0W(GA)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/products/midea-mfa2u-12hrfnx-qrd0w-ga.webp",
+    "setecUrl": "https://setec.mk/products/midea-mfa2u-12hrfnx-qrd0w-ga"
+  },
+  {
+    "slug": "midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
+    "sku": "7695212",
+    "name": "MIDEA Breezeless E CB1-12HRFN8-I/MX2H-12RD6-OI",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 49999,
+    "priceFromEur": 813,
+    "image": "/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1.jpg",
+    "setecUrl": "https://setec.mk/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1"
+  },
+  {
     "slug": "midea-forest-second-generation-wifi-smart-kit-seri-1",
     "sku": "7852412",
     "name": "MIDEA FOREST Second generation WIFI SMART KIT серија MSAFBU-12HRFN8-QRD1GW/MOX133-12HFN8-QRD1GW KIT",
@@ -324,23 +477,6 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-forest-second-generation-wifi-smart-kit-seri-1"
   },
   {
-    "slug": "midea-mfa2u-12hrfnx-qrd0w-ga",
-    "sku": "7643212",
-    "name": "Midea MFA2U-12HRFNX-QRD0W(GA)",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 24365,
-    "priceFromEur": 396,
-    "image": "/products/midea-mfa2u-12hrfnx-qrd0w-ga.webp",
-    "setecUrl": "https://setec.mk/products/midea-mfa2u-12hrfnx-qrd0w-ga"
-  },
-  {
     "slug": "midea-mfau-12hrfnx-qrd0w-smart-1",
     "sku": "7384012",
     "name": "Midea MFAU-12HRFNX-QRD0W SMART",
@@ -352,8 +488,8 @@ export const setecProducts: SetecProduct[] = [
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 24779,
-    "priceFromEur": 403,
+    "priceMkd": 26999,
+    "priceFromEur": 439,
     "image": "/products/midea-mfau-12hrfnx-qrd0w-smart-1.webp",
     "setecUrl": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-smart-1"
   },
@@ -369,8 +505,8 @@ export const setecProducts: SetecProduct[] = [
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 24779,
-    "priceFromEur": 403,
+    "priceMkd": 26999,
+    "priceFromEur": 439,
     "image": "/products/midea-mfau-12hrfnx-qrd0w-1.webp",
     "setecUrl": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-1"
   },
@@ -390,6 +526,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 472,
     "image": "/products/midea-glory-plus-mgpxv-12rd0-i-mgpxvh-12rd0-o.jpg",
     "setecUrl": "https://setec.mk/products/midea-glory-plus-mgpxv-12rd0-i-mgpxvh-12rd0-o"
+  },
+  {
+    "slug": "st-tac-18inv32-siberia-1",
+    "sku": "7282112",
+    "name": "ST TAC-18INV32 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 37999,
+    "priceFromEur": 618,
+    "image": "/products/st-tac-18inv32-siberia-1.jpg",
+    "setecUrl": "https://setec.mk/products/st-tac-18inv32-siberia-1"
   },
   {
     "slug": "midea-mca3u-09hrfnx-qrd0w-ga-1",
@@ -443,40 +596,6 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/st-xac-18inv32-siberia-1"
   },
   {
-    "slug": "st-tac-18inv32-siberia-1",
-    "sku": "7282112",
-    "name": "ST TAC-18INV32 SIBERIA",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 37999,
-    "priceFromEur": 618,
-    "image": "/products/st-tac-18inv32-siberia-1.jpg",
-    "setecUrl": "https://setec.mk/products/st-tac-18inv32-siberia-1"
-  },
-  {
-    "slug": "midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
-    "sku": "7695212",
-    "name": "MIDEA Breezeless E CB1-12HRFN8-I/MX2H-12RD6-OI",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 49999,
-    "priceFromEur": 813,
-    "image": "/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1.jpg",
-    "setecUrl": "https://setec.mk/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1"
-  },
-  {
     "slug": "midea-solunar-12k",
     "sku": "7966112",
     "name": "MIDEA SOLUNAR 12K",
@@ -492,6 +611,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 520,
     "image": "/products/midea-solunar-12k.jpg",
     "setecUrl": "https://setec.mk/products/midea-solunar-12k"
+  },
+  {
+    "slug": "st-tac-18inv322-siberia",
+    "sku": "7968912",
+    "name": "ST TAC-18INV322 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 37999,
+    "priceFromEur": 618,
+    "image": "/products/st-tac-18inv322-siberia.jpg",
+    "setecUrl": "https://setec.mk/products/st-tac-18inv322-siberia"
   },
   {
     "slug": "midea-mca3i-09hrfnx-qrd0",
@@ -545,10 +681,10 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-breezeless-e-mscb1bu-09hrfn8-qrd1gw0-mox104"
   },
   {
-    "slug": "midea-mca3u-18hrfnx-qrd0w-ga-1",
-    "sku": "3081612",
-    "name": "Midea MCA3U-18HRFNX-QRD0W(GA)",
-    "brand": "Midea",
+    "slug": "st-tac-18inv32w-siberia-smart-1",
+    "sku": "7843112",
+    "name": "ST TAC-18INV32W SIBERIA SMART",
+    "brand": "ST",
     "category": "split",
     "capacityBtu": 18000,
     "roomSizeM2": [
@@ -556,10 +692,10 @@ export const setecProducts: SetecProduct[] = [
       60
     ],
     "energyClass": "A++",
-    "priceMkd": 29208,
-    "priceFromEur": 475,
-    "image": "/products/midea-mca3u-18hrfnx-qrd0w-ga-1.webp",
-    "setecUrl": "https://setec.mk/products/midea-mca3u-18hrfnx-qrd0w-ga-1"
+    "priceMkd": 38999,
+    "priceFromEur": 634,
+    "image": "/products/st-tac-18inv32w-siberia-smart-1.webp",
+    "setecUrl": "https://setec.mk/products/st-tac-18inv32w-siberia-smart-1"
   },
   {
     "slug": "midea-mppdb-12hrn7-qb6-1",
@@ -579,10 +715,10 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-mppdb-12hrn7-qb6-1"
   },
   {
-    "slug": "st-tac-18inv322-siberia",
-    "sku": "7968912",
-    "name": "ST TAC-18INV322 SIBERIA",
-    "brand": "ST",
+    "slug": "midea-mca3u-18hrfnx-qrd0w-ga-1",
+    "sku": "3081612",
+    "name": "Midea MCA3U-18HRFNX-QRD0W(GA)",
+    "brand": "Midea",
     "category": "split",
     "capacityBtu": 18000,
     "roomSizeM2": [
@@ -590,27 +726,10 @@ export const setecProducts: SetecProduct[] = [
       60
     ],
     "energyClass": "A++",
-    "priceMkd": 37999,
-    "priceFromEur": 618,
-    "image": "/products/st-tac-18inv322-siberia.jpg",
-    "setecUrl": "https://setec.mk/products/st-tac-18inv322-siberia"
-  },
-  {
-    "slug": "st-tac-18inv32w-siberia-smart-1",
-    "sku": "7843112",
-    "name": "ST TAC-18INV32W SIBERIA SMART",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 38999,
-    "priceFromEur": 634,
-    "image": "/products/st-tac-18inv32w-siberia-smart-1.webp",
-    "setecUrl": "https://setec.mk/products/st-tac-18inv32w-siberia-smart-1"
+    "priceMkd": 31211,
+    "priceFromEur": 507,
+    "image": "/products/midea-mca3u-18hrfnx-qrd0w-ga-1.webp",
+    "setecUrl": "https://setec.mk/products/midea-mca3u-18hrfnx-qrd0w-ga-1"
   },
   {
     "slug": "st-xac-18inva-arctic",
@@ -647,23 +766,6 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/st-tac-24inv-1"
   },
   {
-    "slug": "bautech-bac-18invab-breezefree-1",
-    "sku": "7871912",
-    "name": "BAUTECH BAC-18INVAB BREEZEFREE",
-    "brand": "BAUTECH",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 42999,
-    "priceFromEur": 699,
-    "image": "/products/bautech-bac-18invab-breezefree-1.webp",
-    "setecUrl": "https://setec.mk/products/bautech-bac-18invab-breezefree-1"
-  },
-  {
     "slug": "haier-revive-series-as50rcbhra-1u50merfra-1",
     "sku": "7658212",
     "name": "HAIER Revive series AS50RCBHRA/1U50MERFRA",
@@ -698,7 +800,7 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/st-tac-18inv32-ultra-black-wifi"
   },
   {
-    "slug": "haier-revive-plus-as50rdahra-pl-1u50megfra-5",
+    "slug": "haier-revive-plus-as50rdahra-pl-1u50megfra-5-1",
     "sku": "7803112",
     "name": "HAIER Revive Plus AS50RDAHRA-PL/1U50MEGFRA-5",
     "brand": "Haier",
@@ -711,8 +813,8 @@ export const setecProducts: SetecProduct[] = [
     "energyClass": "A++",
     "priceMkd": 54999,
     "priceFromEur": 894,
-    "image": "/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5.jpg",
-    "setecUrl": "https://setec.mk/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5"
+    "image": "/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5-1.jpg",
+    "setecUrl": "https://setec.mk/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5-1"
   },
   {
     "slug": "hisense-hi-smart-cf50xs1gg-hisense-as50xs1gw-1",
@@ -732,6 +834,23 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/hisense-hi-smart-cf50xs1gg-hisense-as50xs1gw-1"
   },
   {
+    "slug": "bautech-bac-18invab-breezefree-1",
+    "sku": "7871912",
+    "name": "BAUTECH BAC-18INVAB BREEZEFREE",
+    "brand": "BAUTECH",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 44999,
+    "priceFromEur": 732,
+    "image": "/products/bautech-bac-18invab-breezefree-1.webp",
+    "setecUrl": "https://setec.mk/products/bautech-bac-18invab-breezefree-1"
+  },
+  {
     "slug": "midea-forest-wifi-smart-kit-seria-msafcu-18hrfn8-q",
     "sku": "7662312",
     "name": "MIDEA FOREST WIFI SMART KIT серија MSAFCU-18HRFN8-QRD0GW/MOX330-18HFN8-QRD0GW",
@@ -747,6 +866,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 732,
     "image": "/products/midea-forest-wifi-smart-kit-seria-msafcu-18hrfn8-q.webp",
     "setecUrl": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafcu-18hrfn8-q"
+  },
+  {
+    "slug": "st-tac-24inv32w-siberia-smart-1",
+    "sku": "7843212",
+    "name": "ST TAC-24INV32W SIBERIA SMART",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 24000,
+    "roomSizeM2": [
+      60,
+      90
+    ],
+    "energyClass": "A++",
+    "priceMkd": 46999,
+    "priceFromEur": 764,
+    "image": "/products/st-tac-24inv32w-siberia-smart-1.webp",
+    "setecUrl": "https://setec.mk/products/st-tac-24inv32w-siberia-smart-1"
   },
   {
     "slug": "midea-glory-plus-mgpxv-18rd0-i-mgpxvh-18rd0-o",
@@ -834,9 +970,9 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-breezeless-e-mscb1cu-18hrfn8-qrd1gw-mox301-1-1"
   },
   {
-    "slug": "st-tac-24inv32w-siberia-smart-1",
-    "sku": "7843212",
-    "name": "ST TAC-24INV32W SIBERIA SMART",
+    "slug": "st-xac-24inva-arctic",
+    "sku": "7894312",
+    "name": "ST XAC-24INVA ARCTIC",
     "brand": "ST",
     "category": "split",
     "capacityBtu": 24000,
@@ -845,10 +981,10 @@ export const setecProducts: SetecProduct[] = [
       90
     ],
     "energyClass": "A++",
-    "priceMkd": 46999,
-    "priceFromEur": 764,
-    "image": "/products/st-tac-24inv32w-siberia-smart-1.webp",
-    "setecUrl": "https://setec.mk/products/st-tac-24inv32w-siberia-smart-1"
+    "priceMkd": 54999,
+    "priceFromEur": 894,
+    "image": "/products/st-xac-24inva-arctic.webp",
+    "setecUrl": "https://setec.mk/products/st-xac-24inva-arctic"
   },
   {
     "slug": "midea-gaia-msca1bu-12hrfn8-qrd6gw-mox230-12hfn8-qr-1",
@@ -868,23 +1004,6 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-gaia-msca1bu-12hrfn8-qrd6gw-mox230-12hfn8-qr-1"
   },
   {
-    "slug": "st-xac-24inva-arctic",
-    "sku": "7894312",
-    "name": "ST XAC-24INVA ARCTIC",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 24000,
-    "roomSizeM2": [
-      60,
-      90
-    ],
-    "energyClass": "A++",
-    "priceMkd": 54999,
-    "priceFromEur": 894,
-    "image": "/products/st-xac-24inva-arctic.webp",
-    "setecUrl": "https://setec.mk/products/st-xac-24inva-arctic"
-  },
-  {
     "slug": "hisense-energy-pro-x-qh50bv0ag-hisense-as50bv0ew-1",
     "sku": "7922412",
     "name": "HISENSE ENERGY PRO X QH50BV0AG/HISENSE AS50BV0EW",
@@ -902,7 +1021,7 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/hisense-energy-pro-x-qh50bv0ag-hisense-as50bv0ew-1"
   },
   {
-    "slug": "midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga-1",
+    "slug": "midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga",
     "sku": "3089912",
     "name": "MIDEA MFAU-12HRFNX-QRD0W(GA)/MOX230-12HFN8-QRD0W(GA)",
     "brand": "Midea",
@@ -915,8 +1034,8 @@ export const setecProducts: SetecProduct[] = [
     "energyClass": "A++",
     "priceMkd": 60999,
     "priceFromEur": 992,
-    "image": "/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga-1.webp",
-    "setecUrl": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga-1"
+    "image": "/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga"
   },
   {
     "slug": "midea-mmcs-12hrfn8-qrdo-porta-split",
@@ -951,6 +1070,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 846,
     "image": "/products/midea-solunar-18k-kit.jpg",
     "setecUrl": "https://setec.mk/products/midea-solunar-18k-kit"
+  },
+  {
+    "slug": "midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
+    "sku": "7662212",
+    "name": "MIDEA FOREST WIFI SMART KIT серија MSAFDU-24HRFNX-QRD0GW/MOX431-24HFN8-QRD0GW",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 24000,
+    "roomSizeM2": [
+      60,
+      90
+    ],
+    "energyClass": "A++",
+    "priceMkd": 59999,
+    "priceFromEur": 976,
+    "image": "/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q.webp",
+    "setecUrl": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q"
   },
   {
     "slug": "bautech-bac-24invab-breezefree",
@@ -1021,6 +1157,23 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/midea-forest-silver-mirror-nordic-smart-msafdu-24h"
   },
   {
+    "slug": "midea-mfa2u-12hrfnx-ga-mox230-12hfn8-q-ga-konzol",
+    "sku": "9833412",
+    "name": "Midea MFA2U-12HRFNX(GA)/MOX230-12HFN8-Q(GA) Конзолен тип на клима уред Breezeless изглед",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 54999,
+    "priceFromEur": 894,
+    "image": "/products/midea-mfa2u-12hrfnx-ga-mox230-12hfn8-q-ga-konzol.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mfa2u-12hrfnx-ga-mox230-12hfn8-q-ga-konzol"
+  },
+  {
     "slug": "haier-revive-plus-as68rdahra-pl-1u68wegfra-5",
     "sku": "7800412",
     "name": "HAIER Revive Plus AS68RDAHRA-PL/1U68WEGFRA-5",
@@ -1055,24 +1208,7 @@ export const setecProducts: SetecProduct[] = [
     "setecUrl": "https://setec.mk/products/haier-revive-series-as68rdahra-1u68mrafra"
   },
   {
-    "slug": "midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
-    "sku": "7662212",
-    "name": "MIDEA FOREST WIFI SMART KIT серија MSAFDU-24HRFNX-QRD0GW/MOX431-24HFN8-QRD0GW",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 24000,
-    "roomSizeM2": [
-      60,
-      90
-    ],
-    "energyClass": "A++",
-    "priceMkd": 59999,
-    "priceFromEur": 976,
-    "image": "/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q.webp",
-    "setecUrl": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q"
-  },
-  {
-    "slug": "midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g-1",
+    "slug": "midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g",
     "sku": "3081812",
     "name": "MIDEA MFAU-16HRFN8-QRD0W(GA)/MOX330U-18HFN8-QRD0W(GA)",
     "brand": "Midea",
@@ -1085,11 +1221,11 @@ export const setecProducts: SetecProduct[] = [
     "energyClass": "A++",
     "priceMkd": 78999,
     "priceFromEur": 1285,
-    "image": "/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g-1.webp",
-    "setecUrl": "https://setec.mk/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g-1"
+    "image": "/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g"
   },
   {
-    "slug": "midea-breezeless-e-mscb1du-24hrfn8-qrd1gw-mox401-2",
+    "slug": "midea-breezeless-e-cb1-24hrfn8-i-mx4h-24rd1-cb-o",
     "sku": "7826612",
     "name": "MIDEA Breezeless E CB1-24HRFN8-I/MX4H-24RD1-CB-O",
     "brand": "Midea",
@@ -1102,8 +1238,8 @@ export const setecProducts: SetecProduct[] = [
     "energyClass": "A++",
     "priceMkd": 69999,
     "priceFromEur": 1138,
-    "image": "/products/midea-breezeless-e-mscb1du-24hrfn8-qrd1gw-mox401-2.jpg",
-    "setecUrl": "https://setec.mk/products/midea-breezeless-e-mscb1du-24hrfn8-qrd1gw-mox401-2"
+    "image": "/products/midea-breezeless-e-cb1-24hrfn8-i-mx4h-24rd1-cb-o.jpg",
+    "setecUrl": "https://setec.mk/products/midea-breezeless-e-cb1-24hrfn8-i-mx4h-24rd1-cb-o"
   },
   {
     "slug": "midea-glory-plus-mgpxv-24rd0-i-mgpxvh-24rd0-o",
@@ -1138,6 +1274,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 1138,
     "image": "/products/midea-solunar-24k-kit.jpg",
     "setecUrl": "https://setec.mk/products/midea-solunar-24k-kit"
+  },
+  {
+    "slug": "midea-mfa2u-17hrfnx-ga-mox330u-18hfn8-q-ga-konzo",
+    "sku": "9833512",
+    "name": "Midea MFA2U-17HRFNX(GA)/MOX330U-18HFN8-Q(GA) Конзолен тип на клима уред Breezeless СО ДВОЕН ГРЕАЧ НА КУЌИШТЕ И НА КОМПРЕСОР",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 69999,
+    "priceFromEur": 1138,
+    "image": "/products/midea-mfa2u-17hrfnx-ga-mox330u-18hfn8-q-ga-konzo.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mfa2u-17hrfnx-ga-mox330u-18hfn8-q-ga-konzo"
   },
   {
     "slug": "panasonic-cs-fz60uke-cu-fz60uke-1",
@@ -1355,8 +1508,8 @@ export const setecProducts: SetecProduct[] = [
       140
     ],
     "energyClass": "A++",
-    "priceMkd": 117959,
-    "priceFromEur": 1918,
+    "priceMkd": 127999,
+    "priceFromEur": 2081,
     "image": "/products/midea-m4ob-36hfn8-q-1.webp",
     "setecUrl": "https://setec.mk/products/midea-m4ob-36hfn8-q-1"
   },
@@ -1372,8 +1525,8 @@ export const setecProducts: SetecProduct[] = [
       240
     ],
     "energyClass": "A++",
-    "priceMkd": 126980,
-    "priceFromEur": 2065,
+    "priceMkd": 136999,
+    "priceFromEur": 2228,
     "image": "/products/midea-m5oe-42hfn8-q-2.webp",
     "setecUrl": "https://setec.mk/products/midea-m5oe-42hfn8-q-2"
   },
@@ -1512,6 +1665,23 @@ export const setecProducts: SetecProduct[] = [
     "priceFromEur": 2992,
     "image": "/products/midea-mcd1-48hrfnx-qrd0w-ga-midea-moe30u-48hfn8-rr-1.webp",
     "setecUrl": "https://setec.mk/products/midea-mcd1-48hrfnx-qrd0w-ga-midea-moe30u-48hfn8-rr-1"
+  },
+  {
+    "slug": "midea-mti-60hwfnx-qrd0-midea-moe30u-60hfn8-rrd0-3",
+    "sku": "7355912",
+    "name": "Midea MTI-60HWFNX-QRD0/Midea MOE30U-60HFN8-RRD0 (3 Phase)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 60000,
+    "roomSizeM2": [
+      140,
+      240
+    ],
+    "energyClass": "A++",
+    "priceMkd": 186999,
+    "priceFromEur": 3041,
+    "image": "/products/midea-mti-60hwfnx-qrd0-midea-moe30u-60hfn8-rrd0-3.jpg",
+    "setecUrl": "https://setec.mk/products/midea-mti-60hwfnx-qrd0-midea-moe30u-60hfn8-rrd0-3"
   },
   {
     "slug": "midea-mti-55hwfnx-qrd0-midea-moe30u-55hfn8-rrd0-3",

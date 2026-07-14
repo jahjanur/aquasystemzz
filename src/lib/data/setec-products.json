@@ -1,5 +1,39 @@
 [
   {
+    "slug": "midea-msafbu-12hrdnx-qrd0fgw-smart-1",
+    "url": "https://setec.mk/products/midea-msafbu-12hrdnx-qrd0fgw-smart-1",
+    "sku": "7643012",
+    "name": "Midea MSAFBU-12HRDNX-QRD0FGW SMART",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 12999,
+    "priceFromEur": 211,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76430_0-01JVA7N49VC0TQ5VW4BNJ3EDKJ.webp&w=3840&q=75"
+  },
+  {
+    "slug": "midea-ez-09rd6-i-smart-solstice",
+    "url": "https://setec.mk/products/midea-ez-09rd6-i-smart-solstice",
+    "sku": "7957312",
+    "name": "Midea EZ-09RD6-I SMART SOLSTICE",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 12999,
+    "priceFromEur": 211,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79573_Midea%20EZ-09RD6-I%20SMART%20SOLSTICE-01K33AJ3319CBX73BD7DQMYRMH.jpg&w=3840&q=75"
+  },
+  {
     "slug": "midea-ez-12rd6-i-smart-solstice",
     "url": "https://setec.mk/products/midea-ez-12rd6-i-smart-solstice",
     "sku": "7957412",
@@ -12,9 +46,77 @@
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 12975,
-    "priceFromEur": 211,
+    "priceMkd": 13999,
+    "priceFromEur": 228,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79574_Midea%2520EZ-12RD6-I%2520SMART%2520SOLSTICE-01KM062TPWVT67T2M7KWTR591K.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "st-tac-12inv322-siberia",
+    "url": "https://setec.mk/products/st-tac-12inv322-siberia",
+    "sku": "7968712",
+    "name": "ST TAC-12INV322 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79687_ST%2520TAC-12INV322%2520SIBERIA-01KM2VQY4RWGNFP1MCYVTFWM2W.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "st-tac-12soo-1",
+    "url": "https://setec.mk/products/st-tac-12soo-1",
+    "sku": "7027912",
+    "name": "ST TAC-12SOO",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 19999,
+    "priceFromEur": 325,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F70279_0-01JXA8G4MXRK3WW25SNXAWVX3E.webp&w=3840&q=75"
+  },
+  {
+    "slug": "st-pach-o09chtw-1",
+    "url": "https://setec.mk/products/st-pach-o09chtw-1",
+    "sku": "7332312",
+    "name": "ST PACH-O09CHTW",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 23999,
+    "priceFromEur": 390,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F73323_0-01JVYCW60RHEQP0WVNW3402JP6.webp&w=3840&q=75"
+  },
+  {
+    "slug": "st-gac-12inv-wifi-1",
+    "url": "https://setec.mk/products/st-gac-12inv-wifi-1",
+    "sku": "7150212",
+    "name": "ST GAC-12INV WIFI",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 25999,
+    "priceFromEur": 423,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F71502_0-01JWR77HF8VSJMCET077ZBN3XQ.webp&w=3840&q=75"
   },
   {
     "slug": "st-mac-12soo",
@@ -68,11 +170,11 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F75627_0-01JWDYCRC4RMZGKJFVQ9MP2WW2.webp&w=3840&q=75"
   },
   {
-    "slug": "midea-mfa2u-09hrfnx-ga",
-    "url": "https://setec.mk/products/midea-mfa2u-09hrfnx-ga",
-    "sku": "9833012",
-    "name": "Midea MFA2U-09HRFNX(GA)",
-    "brand": "Midea",
+    "slug": "st-pac-t09pbc-1",
+    "url": "https://setec.mk/products/st-pac-t09pbc-1",
+    "sku": "8027812",
+    "name": "ST PAC-T09PBC",
+    "brand": "ST",
     "category": "split",
     "capacityBtu": 9000,
     "roomSizeM2": [
@@ -80,26 +182,9 @@
       25
     ],
     "energyClass": "A++",
-    "priceMkd": 16173,
-    "priceFromEur": 263,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F98330_Midea%2520MFA2U-09HRFNX(GA)-01KQEPC5F74WX3V77725R508CN.jpg&w=3840&q=75"
-  },
-  {
-    "slug": "midea-msafcu-18hrfn8-qrd0gw-smart-1",
-    "url": "https://setec.mk/products/midea-msafcu-18hrfn8-qrd0gw-smart-1",
-    "sku": "7643112",
-    "name": "Midea MSAFCU-18HRFN8-QRD0GW SMART",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 16903,
-    "priceFromEur": 275,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76431_0-01JVA7N4MRK7Q95SC6N9AC91MJ.webp&w=3840&q=75"
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F80278_ST%2520PAC-T09PBC-01KM2V94XPE03KVWEKCQ4B5D1E.jpg&w=3840&q=75"
   },
   {
     "slug": "midea-mppa-09crn7-qb7g16-a-1",
@@ -117,40 +202,6 @@
     "priceMkd": 21999,
     "priceFromEur": 358,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78567_MIDEA%20MPPA-09CRN7-QB7G16(A)-01JXWGR0A9EW4CEBMEQ1QN4E2W.jpg&w=3840&q=75"
-  },
-  {
-    "slug": "st-tac-12inv322-siberia",
-    "url": "https://setec.mk/products/st-tac-12inv322-siberia",
-    "sku": "7968712",
-    "name": "ST TAC-12INV322 SIBERIA",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 24999,
-    "priceFromEur": 406,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79687_ST%2520TAC-12INV322%2520SIBERIA-01KM2VQY4RWGNFP1MCYVTFWM2W.jpg&w=3840&q=75"
-  },
-  {
-    "slug": "midea-ez-18rd6-i-smart-solstice",
-    "url": "https://setec.mk/products/midea-ez-18rd6-i-smart-solstice",
-    "sku": "7957512",
-    "name": "Midea EZ-18RD6-I SMART SOLSTICE",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 18256,
-    "priceFromEur": 297,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79575_Midea%20EZ-18RD6-I%20SMART%20SOLSTICE-01K33ARZG5P0R673T6JBHZVF4G.jpg&w=3840&q=75"
   },
   {
     "slug": "st-pach-o12nhtw-1",
@@ -187,6 +238,23 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F12698_MIDEA%2520MPPA-09CRN7-QB6(A)-01KPWK31N1K5ZG6XE61KNV99MB.jpg&w=3840&q=75"
   },
   {
+    "slug": "midea-msafcu-18hrfn8-qrd0gw-smart-1",
+    "url": "https://setec.mk/products/midea-msafcu-18hrfn8-qrd0gw-smart-1",
+    "sku": "7643112",
+    "name": "Midea MSAFCU-18HRFN8-QRD0GW SMART",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 18999,
+    "priceFromEur": 309,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76431_0-01JVA7N4MRK7Q95SC6N9AC91MJ.webp&w=3840&q=75"
+  },
+  {
     "slug": "st-tac-12inv32w-siberia-smart-1",
     "url": "https://setec.mk/products/st-tac-12inv32w-siberia-smart-1",
     "sku": "7843012",
@@ -219,6 +287,23 @@
     "priceMkd": 25999,
     "priceFromEur": 423,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79688_ST%2520TAC-12INV32WH%2520ARCTIC_1-01KM2V1B2519SP5YS5JZ0J4BFP.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "midea-ez-18rd6-i-smart-solstice",
+    "url": "https://setec.mk/products/midea-ez-18rd6-i-smart-solstice",
+    "sku": "7957512",
+    "name": "Midea EZ-18RD6-I SMART SOLSTICE",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 19999,
+    "priceFromEur": 325,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79575_Midea%20EZ-18RD6-I%20SMART%20SOLSTICE-01K33ARZG5P0R673T6JBHZVF4G.jpg&w=3840&q=75"
   },
   {
     "slug": "st-xac-12invba-black-arctic",
@@ -255,6 +340,40 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78718_0-01JWDZCGQ95BSZMSMT7FZT203F.webp&w=3840&q=75"
   },
   {
+    "slug": "midea-mfa2u-09hrfnx-ga",
+    "url": "https://setec.mk/products/midea-mfa2u-09hrfnx-ga",
+    "sku": "9833012",
+    "name": "Midea MFA2U-09HRFNX(GA)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 9000,
+    "roomSizeM2": [
+      15,
+      25
+    ],
+    "energyClass": "A++",
+    "priceMkd": 20999,
+    "priceFromEur": 341,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F98330_Midea%2520MFA2U-09HRFNX(GA)-01KQEPC5F74WX3V77725R508CN.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "st-pach-t12pbch-1",
+    "url": "https://setec.mk/products/st-pach-t12pbch-1",
+    "sku": "8027912",
+    "name": "ST PACH-T12PBCH",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 26999,
+    "priceFromEur": 439,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F80279_ST%2520PACH-T12PBCH-01KM2W4DCG8MZ900V2KX2VGF16.jpg&w=3840&q=75"
+  },
+  {
     "slug": "midea-mppda-09crn7-qb7g1",
     "url": "https://setec.mk/products/midea-mppda-09crn7-qb7g1",
     "sku": "7581312",
@@ -289,6 +408,40 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78013_0-01JVA7SEZTB4906CASPQCYSY1P.webp&w=3840&q=75"
   },
   {
+    "slug": "midea-mfa2u-12hrfnx-qrd0w-ga",
+    "url": "https://setec.mk/products/midea-mfa2u-12hrfnx-qrd0w-ga",
+    "sku": "7643212",
+    "name": "Midea MFA2U-12HRFNX-QRD0W(GA)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 24999,
+    "priceFromEur": 406,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76432_0-01JWR7818FDNX8H35XMWVZWV2K.webp&w=3840&q=75"
+  },
+  {
+    "slug": "midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
+    "url": "https://setec.mk/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
+    "sku": "7695212",
+    "name": "MIDEA Breezeless E CB1-12HRFN8-I/MX2H-12RD6-OI",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 49999,
+    "priceFromEur": 813,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76952_MIDEA%2520Breezeless%2520E%2520CB1-12HFNX-OCB1-12HRFN8-I-01KM31KD1VD7FNM7GV95GCCJ59.jpg&w=3840&q=75"
+  },
+  {
     "slug": "midea-forest-second-generation-wifi-smart-kit-seri-1",
     "url": "https://setec.mk/products/midea-forest-second-generation-wifi-smart-kit-seri-1",
     "sku": "7852412",
@@ -306,23 +459,6 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78524_0-01JWDZC9RDZ1N5VMZZF3E72CX7.webp&w=3840&q=75"
   },
   {
-    "slug": "midea-mfa2u-12hrfnx-qrd0w-ga",
-    "url": "https://setec.mk/products/midea-mfa2u-12hrfnx-qrd0w-ga",
-    "sku": "7643212",
-    "name": "Midea MFA2U-12HRFNX-QRD0W(GA)",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 24365,
-    "priceFromEur": 396,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76432_0-01JWR7818FDNX8H35XMWVZWV2K.webp&w=3840&q=75"
-  },
-  {
     "slug": "midea-mfau-12hrfnx-qrd0w-smart-1",
     "url": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-smart-1",
     "sku": "7384012",
@@ -335,8 +471,8 @@
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 24779,
-    "priceFromEur": 403,
+    "priceMkd": 26999,
+    "priceFromEur": 439,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F73840_0-01JVYCT90CABT375P3E2CCGE29.webp&w=3840&q=75"
   },
   {
@@ -352,8 +488,8 @@
       40
     ],
     "energyClass": "A++",
-    "priceMkd": 24779,
-    "priceFromEur": 403,
+    "priceMkd": 26999,
+    "priceFromEur": 439,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F73543_0-01JWR774EJFG0HMY91E519M91J.webp&w=3840&q=75"
   },
   {
@@ -372,6 +508,23 @@
     "priceMkd": 28999,
     "priceFromEur": 472,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F12691_MIDEA%2520GLORY%2520PLUS%2520MGPXV-12RD0-I_MGPXVH-12RD0-O-01KMJVQ8CQ3P9P28Q5K76BCYEE.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "st-tac-18inv32-siberia-1",
+    "url": "https://setec.mk/products/st-tac-18inv32-siberia-1",
+    "sku": "7282112",
+    "name": "ST TAC-18INV32 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 37999,
+    "priceFromEur": 618,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F72821_ST%20TAC-18INV32%20SIBERIA-01JYK06Z82HMEMJEN7QRB135Q5.jpg&w=3840&q=75"
   },
   {
     "slug": "midea-mca3u-09hrfnx-qrd0w-ga-1",
@@ -425,40 +578,6 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78168_0-01JVYD4TVVM89TN3QRP4W2NW5D.webp&w=3840&q=75"
   },
   {
-    "slug": "st-tac-18inv32-siberia-1",
-    "url": "https://setec.mk/products/st-tac-18inv32-siberia-1",
-    "sku": "7282112",
-    "name": "ST TAC-18INV32 SIBERIA",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 37999,
-    "priceFromEur": 618,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F72821_ST%20TAC-18INV32%20SIBERIA-01JYK06Z82HMEMJEN7QRB135Q5.jpg&w=3840&q=75"
-  },
-  {
-    "slug": "midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
-    "url": "https://setec.mk/products/midea-breezeless-e-cb1-12hfnx-o-cb1-12hrfn8-i-1",
-    "sku": "7695212",
-    "name": "MIDEA Breezeless E CB1-12HRFN8-I/MX2H-12RD6-OI",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 12000,
-    "roomSizeM2": [
-      25,
-      40
-    ],
-    "energyClass": "A++",
-    "priceMkd": 49999,
-    "priceFromEur": 813,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76952_MIDEA%2520Breezeless%2520E%2520CB1-12HFNX-OCB1-12HRFN8-I-01KM31KD1VD7FNM7GV95GCCJ59.jpg&w=3840&q=75"
-  },
-  {
     "slug": "midea-solunar-12k",
     "url": "https://setec.mk/products/midea-solunar-12k",
     "sku": "7966112",
@@ -474,6 +593,23 @@
     "priceMkd": 31999,
     "priceFromEur": 520,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79661_MIDEA%2520SOLUNAR%252012K-01KM32EXXZ9NQDR0AKQWN7CKTZ.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "st-tac-18inv322-siberia",
+    "url": "https://setec.mk/products/st-tac-18inv322-siberia",
+    "sku": "7968912",
+    "name": "ST TAC-18INV322 SIBERIA",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 37999,
+    "priceFromEur": 618,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79689_ST%2520TAC-18INV322%2520SIBERIA-01KM2VKR771J778PRY0AE4SX0Z.jpg&w=3840&q=75"
   },
   {
     "slug": "midea-mca3i-09hrfnx-qrd0",
@@ -527,11 +663,11 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78523_MIDEA%2520Breezeless%2520E%2520MSCB1BU-09HRFN8-QRD1GW0MOX104-09HFNX-QRD1GW-01KM31HSY5482W2FY5XJXT6FKR.jpg&w=3840&q=75"
   },
   {
-    "slug": "midea-mca3u-18hrfnx-qrd0w-ga-1",
-    "url": "https://setec.mk/products/midea-mca3u-18hrfnx-qrd0w-ga-1",
-    "sku": "3081612",
-    "name": "Midea MCA3U-18HRFNX-QRD0W(GA)",
-    "brand": "Midea",
+    "slug": "st-tac-18inv32w-siberia-smart-1",
+    "url": "https://setec.mk/products/st-tac-18inv32w-siberia-smart-1",
+    "sku": "7843112",
+    "name": "ST TAC-18INV32W SIBERIA SMART",
+    "brand": "ST",
     "category": "split",
     "capacityBtu": 18000,
     "roomSizeM2": [
@@ -539,9 +675,9 @@
       60
     ],
     "energyClass": "A++",
-    "priceMkd": 29208,
-    "priceFromEur": 475,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30816_0-01JWR73AHB4K2JW0AENTPVCS74.webp&w=3840&q=75"
+    "priceMkd": 38999,
+    "priceFromEur": 634,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78431_0-01JVA7V7MTH5A61QY4EYWS0X6F.webp&w=3840&q=75"
   },
   {
     "slug": "midea-mppdb-12hrn7-qb6-1",
@@ -561,11 +697,11 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78566_MIDEA%20MPPDB-12HRN7-QB6-01JXWGTNJG4403FQJ5ZEYHFJC7.jpg&w=3840&q=75"
   },
   {
-    "slug": "st-tac-18inv322-siberia",
-    "url": "https://setec.mk/products/st-tac-18inv322-siberia",
-    "sku": "7968912",
-    "name": "ST TAC-18INV322 SIBERIA",
-    "brand": "ST",
+    "slug": "midea-mca3u-18hrfnx-qrd0w-ga-1",
+    "url": "https://setec.mk/products/midea-mca3u-18hrfnx-qrd0w-ga-1",
+    "sku": "3081612",
+    "name": "Midea MCA3U-18HRFNX-QRD0W(GA)",
+    "brand": "Midea",
     "category": "split",
     "capacityBtu": 18000,
     "roomSizeM2": [
@@ -573,26 +709,9 @@
       60
     ],
     "energyClass": "A++",
-    "priceMkd": 37999,
-    "priceFromEur": 618,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79689_ST%2520TAC-18INV322%2520SIBERIA-01KM2VKR771J778PRY0AE4SX0Z.jpg&w=3840&q=75"
-  },
-  {
-    "slug": "st-tac-18inv32w-siberia-smart-1",
-    "url": "https://setec.mk/products/st-tac-18inv32w-siberia-smart-1",
-    "sku": "7843112",
-    "name": "ST TAC-18INV32W SIBERIA SMART",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 38999,
-    "priceFromEur": 634,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78431_0-01JVA7V7MTH5A61QY4EYWS0X6F.webp&w=3840&q=75"
+    "priceMkd": 31211,
+    "priceFromEur": 507,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30816_0-01JWR73AHB4K2JW0AENTPVCS74.webp&w=3840&q=75"
   },
   {
     "slug": "st-xac-18inva-arctic",
@@ -629,23 +748,6 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F70283_ST%20TAC-24INV-01JZ7NBWBMFWH4QZABPABR9ZCT.webp&w=3840&q=75"
   },
   {
-    "slug": "bautech-bac-18invab-breezefree-1",
-    "url": "https://setec.mk/products/bautech-bac-18invab-breezefree-1",
-    "sku": "7871912",
-    "name": "BAUTECH BAC-18INVAB BREEZEFREE",
-    "brand": "BAUTECH",
-    "category": "split",
-    "capacityBtu": 18000,
-    "roomSizeM2": [
-      40,
-      60
-    ],
-    "energyClass": "A++",
-    "priceMkd": 42999,
-    "priceFromEur": 699,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78719_0-01JWDZCH2H2Z9RFAPNXP9ZN5GZ.webp&w=3840&q=75"
-  },
-  {
     "slug": "haier-revive-series-as50rcbhra-1u50merfra-1",
     "url": "https://setec.mk/products/haier-revive-series-as50rcbhra-1u50merfra-1",
     "sku": "7658212",
@@ -680,8 +782,8 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F75587_0-01JWDY9R0T6PXV1H06PXNSRSC0.webp&w=3840&q=75"
   },
   {
-    "slug": "haier-revive-plus-as50rdahra-pl-1u50megfra-5",
-    "url": "https://setec.mk/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5",
+    "slug": "haier-revive-plus-as50rdahra-pl-1u50megfra-5-1",
+    "url": "https://setec.mk/products/haier-revive-plus-as50rdahra-pl-1u50megfra-5-1",
     "sku": "7803112",
     "name": "HAIER Revive Plus AS50RDAHRA-PL/1U50MEGFRA-5",
     "brand": "Haier",
@@ -714,6 +816,23 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79222_0-01JWTMVRHEEV1QFHDY3VTHRKP9.webp&w=3840&q=75"
   },
   {
+    "slug": "bautech-bac-18invab-breezefree-1",
+    "url": "https://setec.mk/products/bautech-bac-18invab-breezefree-1",
+    "sku": "7871912",
+    "name": "BAUTECH BAC-18INVAB BREEZEFREE",
+    "brand": "BAUTECH",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 44999,
+    "priceFromEur": 732,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78719_0-01JWDZCH2H2Z9RFAPNXP9ZN5GZ.webp&w=3840&q=75"
+  },
+  {
     "slug": "midea-forest-wifi-smart-kit-seria-msafcu-18hrfn8-q",
     "url": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafcu-18hrfn8-q",
     "sku": "7662312",
@@ -729,6 +848,23 @@
     "priceMkd": 44999,
     "priceFromEur": 732,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76623_0-01JVA7NQW08X167DAZ3YWE0RDJ.webp&w=3840&q=75"
+  },
+  {
+    "slug": "st-tac-24inv32w-siberia-smart-1",
+    "url": "https://setec.mk/products/st-tac-24inv32w-siberia-smart-1",
+    "sku": "7843212",
+    "name": "ST TAC-24INV32W SIBERIA SMART",
+    "brand": "ST",
+    "category": "split",
+    "capacityBtu": 24000,
+    "roomSizeM2": [
+      60,
+      90
+    ],
+    "energyClass": "A++",
+    "priceMkd": 46999,
+    "priceFromEur": 764,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78432_0-01JVA7V80G4SXC52ZERMYCEQKC.webp&w=3840&q=75"
   },
   {
     "slug": "midea-glory-plus-mgpxv-18rd0-i-mgpxvh-18rd0-o",
@@ -816,10 +952,10 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F77387_MIDEA%2520Breezeless%2520E%2520MSCB1CU-18HRFN8-QRD1GWMOX301-18HFN8-QRD1GW-01KM31N75ZBK218PHYW758R64T.jpg&w=3840&q=75"
   },
   {
-    "slug": "st-tac-24inv32w-siberia-smart-1",
-    "url": "https://setec.mk/products/st-tac-24inv32w-siberia-smart-1",
-    "sku": "7843212",
-    "name": "ST TAC-24INV32W SIBERIA SMART",
+    "slug": "st-xac-24inva-arctic",
+    "url": "https://setec.mk/products/st-xac-24inva-arctic",
+    "sku": "7894312",
+    "name": "ST XAC-24INVA ARCTIC",
     "brand": "ST",
     "category": "split",
     "capacityBtu": 24000,
@@ -828,9 +964,9 @@
       90
     ],
     "energyClass": "A++",
-    "priceMkd": 46999,
-    "priceFromEur": 764,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78432_0-01JVA7V80G4SXC52ZERMYCEQKC.webp&w=3840&q=75"
+    "priceMkd": 54999,
+    "priceFromEur": 894,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78943_0-01JVYD8ZVDNGPB1M00CCYPYQJ4.webp&w=3840&q=75"
   },
   {
     "slug": "midea-gaia-msca1bu-12hrfn8-qrd6gw-mox230-12hfn8-qr-1",
@@ -850,23 +986,6 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76186_0-01JVA7M94VW9PJP9KYZBS1W2S1.webp&w=3840&q=75"
   },
   {
-    "slug": "st-xac-24inva-arctic",
-    "url": "https://setec.mk/products/st-xac-24inva-arctic",
-    "sku": "7894312",
-    "name": "ST XAC-24INVA ARCTIC",
-    "brand": "ST",
-    "category": "split",
-    "capacityBtu": 24000,
-    "roomSizeM2": [
-      60,
-      90
-    ],
-    "energyClass": "A++",
-    "priceMkd": 54999,
-    "priceFromEur": 894,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78943_0-01JVYD8ZVDNGPB1M00CCYPYQJ4.webp&w=3840&q=75"
-  },
-  {
     "slug": "hisense-energy-pro-x-qh50bv0ag-hisense-as50bv0ew-1",
     "url": "https://setec.mk/products/hisense-energy-pro-x-qh50bv0ag-hisense-as50bv0ew-1",
     "sku": "7922412",
@@ -884,8 +1003,8 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79224_0-01JWTMVSCC24JC3MY6KWCT5N2K.webp&w=3840&q=75"
   },
   {
-    "slug": "midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga-1",
-    "url": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga-1",
+    "slug": "midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga",
+    "url": "https://setec.mk/products/midea-mfau-12hrfnx-qrd0w-ga-mox230-12hfn8-qrd0w-ga",
     "sku": "3089912",
     "name": "MIDEA MFAU-12HRFNX-QRD0W(GA)/MOX230-12HFN8-QRD0W(GA)",
     "brand": "Midea",
@@ -898,7 +1017,7 @@
     "energyClass": "A++",
     "priceMkd": 60999,
     "priceFromEur": 992,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30899_0-01JVW5TPBHTRAP9DQGTVW846F2.webp&w=3840&q=75"
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30899_MIDEA%2520MFAU-12HRFNX-QRD0W(GA)_MOX230-12HFN8-QRD0W(GA)-01KVTE86MAKFKNWBKCG09XSA00.jpg&w=3840&q=75"
   },
   {
     "slug": "midea-mmcs-12hrfn8-qrdo-porta-split",
@@ -933,6 +1052,23 @@
     "priceMkd": 51999,
     "priceFromEur": 846,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79660_MIDEA%2520SOLUNAR%252018K%2520%252B%2520KIT-01KM32HS9N1FSHQ30T0J3CWFAB.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
+    "url": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
+    "sku": "7662212",
+    "name": "MIDEA FOREST WIFI SMART KIT серија MSAFDU-24HRFNX-QRD0GW/MOX431-24HFN8-QRD0GW",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 24000,
+    "roomSizeM2": [
+      60,
+      90
+    ],
+    "energyClass": "A++",
+    "priceMkd": 59999,
+    "priceFromEur": 976,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76622_0-01JVA7NQGQJ5MA0S4NG2SP8ZM2.webp&w=3840&q=75"
   },
   {
     "slug": "bautech-bac-24invab-breezefree",
@@ -1003,6 +1139,23 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F74976_0-01JVW6GA80MG86T7WSBZSX613K.webp&w=3840&q=75"
   },
   {
+    "slug": "midea-mfa2u-12hrfnx-ga-mox230-12hfn8-q-ga-konzol",
+    "url": "https://setec.mk/products/midea-mfa2u-12hrfnx-ga-mox230-12hfn8-q-ga-konzol",
+    "sku": "9833412",
+    "name": "Midea MFA2U-12HRFNX(GA)/MOX230-12HFN8-Q(GA) Конзолен тип на клима уред Breezeless изглед",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 12000,
+    "roomSizeM2": [
+      25,
+      40
+    ],
+    "energyClass": "A++",
+    "priceMkd": 54999,
+    "priceFromEur": 894,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F98334_Midea%2520MFA2U-12HRFNX(GA)_MOX230-12HFN8-Q(GA)%2520%25C3%2590%25C2%259A%25C3%2590%25C2%25BE%25C3%2590%25C2%25BD%25C3%2590%25C2%25B7%25C3%2590%25C2%25BE%25C3%2590%25C2%25BB%25C3%2590%25C2%25B5%25C3%2590%25C2%25BD%2520%25C3%2591%25C2%2582%25C3%2590%25C2%25B8%25C3%2590%25C2%25BF%2520%25C3%2590%25C2%25BD%25C3%2590%25C2%25B0%2520%25C3%2590%25C2%25BA%25C3%2590%25C2%25BB%25C3%2590%25C2%25B8%25C3%2590%25C2%25BC%25C3%2590%25C2%25B0%2520%25C3%2591%25C2%2583%25C3%2591%25C2%2580%25C3%2590%25C2%25B5%25C3%2590%25C2%25B4%2520Breezeless%2520%25C3%2590%25C2%25B8%25C3%2590%25C2%25B7%25C3%2590%25C2%25B3%25C3%2590%25C2%25BB%25C3%2590%25C2%25B5%25C3%2590%25C2%25B4-01KVAN23PEAJMG52PCCJK813XC.jpg&w=3840&q=75"
+  },
+  {
     "slug": "haier-revive-plus-as68rdahra-pl-1u68wegfra-5",
     "url": "https://setec.mk/products/haier-revive-plus-as68rdahra-pl-1u68wegfra-5",
     "sku": "7800412",
@@ -1037,25 +1190,8 @@
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F78022_0-01JVYD6YRTFM2RBAFRWTBNF310.webp&w=3840&q=75"
   },
   {
-    "slug": "midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
-    "url": "https://setec.mk/products/midea-forest-wifi-smart-kit-seria-msafdu-24hrfnx-q",
-    "sku": "7662212",
-    "name": "MIDEA FOREST WIFI SMART KIT серија MSAFDU-24HRFNX-QRD0GW/MOX431-24HFN8-QRD0GW",
-    "brand": "Midea",
-    "category": "split",
-    "capacityBtu": 24000,
-    "roomSizeM2": [
-      60,
-      90
-    ],
-    "energyClass": "A++",
-    "priceMkd": 59999,
-    "priceFromEur": 976,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F76622_0-01JVA7NQGQJ5MA0S4NG2SP8ZM2.webp&w=3840&q=75"
-  },
-  {
-    "slug": "midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g-1",
-    "url": "https://setec.mk/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g-1",
+    "slug": "midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g",
+    "url": "https://setec.mk/products/midea-mfau-16hrfn8-qrd0w-ga-mox330u-18hfn8-qrd0w-g",
     "sku": "3081812",
     "name": "MIDEA MFAU-16HRFN8-QRD0W(GA)/MOX330U-18HFN8-QRD0W(GA)",
     "brand": "Midea",
@@ -1068,11 +1204,11 @@
     "energyClass": "A++",
     "priceMkd": 78999,
     "priceFromEur": 1285,
-    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30818_0-01JVW5TMJDCNPMNNMQZT433CJ3.webp&w=3840&q=75"
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F30818_MIDEA%2520MFAU-16HRFN8-QRD0W(GA)_MOX330U-18HFN8-QRD0W(GA)-01KVTE4Z59MS5PHN4YHQBMV0DR.jpg&w=3840&q=75"
   },
   {
-    "slug": "midea-breezeless-e-mscb1du-24hrfn8-qrd1gw-mox401-2",
-    "url": "https://setec.mk/products/midea-breezeless-e-mscb1du-24hrfn8-qrd1gw-mox401-2",
+    "slug": "midea-breezeless-e-cb1-24hrfn8-i-mx4h-24rd1-cb-o",
+    "url": "https://setec.mk/products/midea-breezeless-e-cb1-24hrfn8-i-mx4h-24rd1-cb-o",
     "sku": "7826612",
     "name": "MIDEA Breezeless E CB1-24HRFN8-I/MX4H-24RD1-CB-O",
     "brand": "Midea",
@@ -1120,6 +1256,23 @@
     "priceMkd": 69999,
     "priceFromEur": 1138,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F79663_MIDEA%2520SOLUNAR%252024K%2520%252B%2520KIT-01KM32JZQTEXXW5ZH4NXA8E3CN.jpg&w=3840&q=75"
+  },
+  {
+    "slug": "midea-mfa2u-17hrfnx-ga-mox330u-18hfn8-q-ga-konzo",
+    "url": "https://setec.mk/products/midea-mfa2u-17hrfnx-ga-mox330u-18hfn8-q-ga-konzo",
+    "sku": "9833512",
+    "name": "Midea MFA2U-17HRFNX(GA)/MOX330U-18HFN8-Q(GA) Конзолен тип на клима уред Breezeless СО ДВОЕН ГРЕАЧ НА КУЌИШТЕ И НА КОМПРЕСОР",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 18000,
+    "roomSizeM2": [
+      40,
+      60
+    ],
+    "energyClass": "A++",
+    "priceMkd": 69999,
+    "priceFromEur": 1138,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F98335_Midea%2520MFA2U-17HRFNX(GA)_MOX330U-18HFN8-Q(GA)%2520%25C3%2590%25C2%259A%25C3%2590%25C2%25BE%25C3%2590%25C2%25BD%25C3%2590%25C2%25B7%25C3%2590%25C2%25BE%25C3%2590%25C2%25BB%25C3%2590%25C2%25B5%25C3%2590%25C2%25BD%2520%25C3%2591%25C2%2582%25C3%2590%25C2%25B8%25C3%2590%25C2%25BF%2520%25C3%2590%25C2%25BD%25C3%2590%25C2%25B0%2520%25C3%2590%25C2%25BA%25C3%2590%25C2%25BB%25C3%2590%25C2%25B8%25C3%2590%25C2%25BC%25C3%2590%25C2%25B0%2520%25C3%2591%25C2%2583%25C3%2591%25C2%2580%25C3%2590%25C2%25B5%25C3%2590%25C2%25B4%2520Breezeless%2520%25C3%2590%25C2%25A1%25C3%2590%25C2%259E%2520%25C3%2590%25C2%2594%25C3%2590%25C2%2592%25C3%2590%25C2%259E%25C3%2590%25C2%2595%25C3%2590%25C2%259D%2520%25C3%2590%25C2%2593%25C3%2590%25C2%25A0%25C3%2590%25C2%2595%25C3%2590%25C2%2590%25C3%2590%25C2%25A7%2520%25C3%2590%25C2%259D%25C3%2590%25C2%2590%2520%25C3%2590%25C2%259A%25C3%2590%25C2%25A3%25C3%2590%25C2%258C%25C3%2590%25C2%2598%25C3%2590%25C2%25A8%25C3%2590%25C2%25A2%25C3%2590%25C2%2595%2520%25C3%2590%25C2%2598%2520%25C3%2590%25C2%259D%25C3%2590%25C2%2590%2520%25C3%2590%25C2%259A%25C3%2590%25C2%259E%25C3%2590%25C2%259C%25C3%2590%25C2%259F%25C3%2590%25C2%25A0%25C3%2590%25C2%2595%25C3%2590%25C2%25A1%25C3%2590%25C2%259E%25C3%2590%25C2%25A0-01KVAMXCMRADY47Q503AG2GG0F.jpg&w=3840&q=75"
   },
   {
     "slug": "panasonic-cs-fz60uke-cu-fz60uke-1",
@@ -1338,8 +1491,8 @@
       140
     ],
     "energyClass": "A++",
-    "priceMkd": 117959,
-    "priceFromEur": 1918,
+    "priceMkd": 127999,
+    "priceFromEur": 2081,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F73537_0-01JWR77450DHSWVWFNS5C3KXP0.webp&w=3840&q=75"
   },
   {
@@ -1355,8 +1508,8 @@
       240
     ],
     "energyClass": "A++",
-    "priceMkd": 126980,
-    "priceFromEur": 2065,
+    "priceMkd": 136999,
+    "priceFromEur": 2228,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F75790_0-01JVA7KCTDNQ21T0DWEED4XTBA.webp&w=3840&q=75"
   },
   {
@@ -1494,6 +1647,23 @@
     "priceMkd": 183999,
     "priceFromEur": 2992,
     "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F75327_0-01JWR76YWXAR2VXBA9EAA379YQ.webp&w=3840&q=75"
+  },
+  {
+    "slug": "midea-mti-60hwfnx-qrd0-midea-moe30u-60hfn8-rrd0-3",
+    "url": "https://setec.mk/products/midea-mti-60hwfnx-qrd0-midea-moe30u-60hfn8-rrd0-3",
+    "sku": "7355912",
+    "name": "Midea MTI-60HWFNX-QRD0/Midea MOE30U-60HFN8-RRD0 (3 Phase)",
+    "brand": "Midea",
+    "category": "split",
+    "capacityBtu": 60000,
+    "roomSizeM2": [
+      140,
+      240
+    ],
+    "energyClass": "A++",
+    "priceMkd": 186999,
+    "priceFromEur": 3041,
+    "image": "/_next/image?url=https%3A%2F%2Fsetec-pos-web.fra1.cdn.digitaloceanspaces.com%2F73559_Midea%2520MTI-60HWFNX-QRD0_Midea%2520MOE30U-60HFN8-RRD0%2520(3%2520Phase)(1)-01KWY5036JB798GSMW8QE032K5.jpg&w=3840&q=75"
   },
   {
     "slug": "midea-mti-55hwfnx-qrd0-midea-moe30u-55hfn8-rrd0-3",
