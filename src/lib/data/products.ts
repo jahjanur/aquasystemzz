@@ -3,9 +3,21 @@ import { setecProducts, type SetecProduct } from "./setec-products";
 export type ProductCategory =
   | "split"
   | "multisplit"
+  | "portable"
   | "vrf"
   | "heatpump"
   | "ventilation";
+
+// The scraper tags every item "split" (it only reads setec's AC category page),
+// so we re-derive the real type from the model name.
+function deriveCategory(name: string): ProductCategory {
+  const n = name.toUpperCase();
+  // Portable / mobile units — no fixed outdoor unit: Midea MPP*, ST PAC/PACH*, "Porta".
+  if (/\bMPP/.test(n) || /\bPACH?-/.test(n) || /PORTA/.test(n)) return "portable";
+  // Multi-split — a multi-zone outdoor unit (Midea M2O/M4O/M5O…) or explicit "multi".
+  if (/\bM[2-5]O[A-Z]/.test(n) || /MULTI/.test(n)) return "multisplit";
+  return "split";
+}
 
 export type Product = {
   slug: string;
@@ -49,6 +61,7 @@ const HIGHLIGHT_SLUGS = new Set(
 
 export const products: Product[] = setecProducts.map((p) => ({
   ...p,
+  category: deriveCategory(p.name),
   features: deriveFeatures(p),
   highlight: HIGHLIGHT_SLUGS.has(p.slug),
 }));

@@ -29,7 +29,18 @@ const initial: Filters = {
   room: "all",
 };
 
-const categoryOrder: ProductCategory[] = ["split", "multisplit", "vrf", "heatpump", "ventilation"];
+const categoryOrder: ProductCategory[] = [
+  "split",
+  "multisplit",
+  "portable",
+  "vrf",
+  "heatpump",
+  "ventilation",
+];
+// Only surface categories we actually stock — no dead, always-empty filter chips.
+const availableCategories = categoryOrder.filter((c) =>
+  products.some((p) => p.category === c),
+);
 
 export function ProductsCatalog({
   locale,
@@ -186,7 +197,7 @@ function FilterPanel({
         >
           {dict.products.filters.all}
         </Chip>
-        {categoryOrder.map((c) => (
+        {availableCategories.map((c) => (
           <Chip
             key={c}
             active={filters.category === c}

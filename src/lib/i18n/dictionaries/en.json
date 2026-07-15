@@ -102,6 +102,7 @@
     "categories": {
       "split": "Split",
       "multisplit": "Multi-split",
+      "portable": "Portable",
       "vrf": "VRF / VRV",
       "heatpump": "Heat pumps",
       "ventilation": "Ventilation"

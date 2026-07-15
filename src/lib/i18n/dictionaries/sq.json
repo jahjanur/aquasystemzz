@@ -102,6 +102,7 @@
     "categories": {
       "split": "Split",
       "multisplit": "Multi-split",
+      "portable": "Portative",
       "vrf": "VRF / VRV",
       "heatpump": "Pompa nxehtësie",
       "ventilation": "Ventilim"
